@@ -1,7 +1,7 @@
 {
   "fid": 9702,
-  "title": "「<<8866>>」の融合素材に「<<7195>>」を使用した場合、攻撃力はアップしますか？",
-  "question": "「<<8866>>」の融合素材として、カード名が「<<6653>>」として扱われている「<<7195>>」を使用した場合、「<<8866>>」の攻撃力は、「<<6653>>」以外のモンスターとして、「<<7195>>」の攻撃力の半分の数値分アップしますか？",
-  "answer": "カード名が「<<6653>>」として扱われている「<<7195>>」を融合素材として使用した場合、「<<7195>>」ではなく、「<<6653>>」を融合素材として使用した扱いになります。\nよって、「<<7195>>」の攻撃力の半分の数値分、「<<8866>>」の攻撃力はアップしません。",
+  "title": "「E・HERO ネオス・ナイト」の融合素材に「E・HERO アナザー・ネオス」を使用した場合、攻撃力はアップしますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=8866\">E・HERO ネオス・ナイト</a>」の融合素材として、カード名が「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」として扱われている「<a href=\"faq_search.action?ope=4&cid=7195\">E・HERO アナザー・ネオス</a>」を使用した場合、「<a href=\"faq_search.action?ope=4&cid=8866\">E・HERO ネオス・ナイト</a>」の攻撃力は、「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」以外のモンスターとして、「<a href=\"faq_search.action?ope=4&cid=7195\">E・HERO アナザー・ネオス</a>」の攻撃力の半分の数値分アップしますか？",
+  "answer": "カード名が「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」として扱われている「<a href=\"faq_search.action?ope=4&cid=7195\">E・HERO アナザー・ネオス</a>」を融合素材として使用した場合、「<a href=\"faq_search.action?ope=4&cid=7195\">E・HERO アナザー・ネオス</a>」ではなく、「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」を融合素材として使用した扱いになります。\nよって、「<a href=\"faq_search.action?ope=4&cid=7195\">E・HERO アナザー・ネオス</a>」の攻撃力の半分の数値分、「<a href=\"faq_search.action?ope=4&cid=8866\">E・HERO ネオス・ナイト</a>」の攻撃力はアップしません。",
   "date": "2017-03-24"
 }
