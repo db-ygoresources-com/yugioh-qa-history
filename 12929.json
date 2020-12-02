@@ -3,5 +3,5 @@
   "title": "「おろかな埋葬」を発動した場合、「虚無空間」の『このカードを破壊する』効果は２回発動しますか？",
   "question": "「<a href=\"faq_search.action?ope=4&cid=9153\">虚無空間</a>」が自分フィールド上に表側表示で存在しています。\n\nこの状況で自分が「<a href=\"faq_search.action?ope=4&cid=5236\">おろかな埋葬</a>」を発動した場合、「<a href=\"faq_search.action?ope=4&cid=5236\">おろかな埋葬</a>」の効果でデッキからモンスターが墓地へ送られ、その後「<a href=\"faq_search.action?ope=4&cid=5236\">おろかな埋葬</a>」自身も魔法＆罠ゾーンから墓地へ送られますが、「<a href=\"faq_search.action?ope=4&cid=9153\">虚無空間</a>」の『②：デッキまたはフィールドから自分の墓地へカードが送られた場合に発動する。このカードを破壊する』効果は２回発動しますか？",
   "answer": "「<a href=\"faq_search.action?ope=4&cid=5236\">おろかな埋葬</a>」の効果によってデッキからモンスター１体が墓地へ送られ、さらに処理が完了した「<a href=\"faq_search.action?ope=4&cid=5236\">おろかな埋葬</a>」のカード自体も墓地へ送られますが、その処理後に「<a href=\"faq_search.action?ope=4&cid=9153\">虚無空間</a>」の『②』の効果は１度だけ発動します。",
-  "date": "2020-11-29"
+  "date": "2020-12-02"
 }
