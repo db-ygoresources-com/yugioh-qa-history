@@ -1,7 +1,7 @@
 {
   "fid": 8137,
-  "title": "攻撃が行えない時に、「霞の谷のファルコン」は、フィールドで発動中の「平和の使者」を手札に戻して攻撃宣言できますか？",
+  "title": "攻撃が行えない時に、「霞の谷のファルコン」は、フィールドで適用中の「平和の使者」を手札に戻して攻撃宣言できますか？",
   "question": "自分フィールド上に存在している「<a href=\"faq_search.action?ope=4&cid=4938\">平和の使者</a>」や「<a href=\"faq_search.action?ope=4&cid=5120\">悪夢の鉄檻</a>」、「<a href=\"faq_search.action?ope=4&cid=5134\">グラヴィティ・バインド－超重力の網－</a>」の効果によって、攻撃宣言が行えない場合に、「<a href=\"faq_search.action?ope=4&cid=4938\">平和の使者</a>」等を手札に戻して、「<a href=\"faq_search.action?ope=4&cid=8109\">霞の谷のファルコン</a>」の攻撃宣言を行う事はできますか？",
   "answer": "「<a href=\"faq_search.action?ope=4&cid=8109\">霞の谷のファルコン</a>」は、攻撃宣言を行う為に、フィールド上のカードを手札に戻します。\nよって、「<a href=\"faq_search.action?ope=4&cid=4938\">平和の使者</a>」等の効果が適用されている場合、「<a href=\"faq_search.action?ope=4&cid=8109\">霞の谷のファルコン</a>」は攻撃宣言を行う事ができない為、「<a href=\"faq_search.action?ope=4&cid=4938\">平和の使者</a>」等を手札に戻す事もできません。",
-  "date": "2017-03-24"
+  "date": "2020-12-07"
 }
