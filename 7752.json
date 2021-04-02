@@ -1,7 +1,7 @@
 {
   "fid": 7752,
-  "title": "「王宮の鉄壁」が発動している時に、「闇の誘惑」を発動できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=7858\">王宮の鉄壁</a>」が表側表示で存在する時に、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」を発動する事はできますか？\nまた、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」の発動にチェーンをして「<a href=\"faq_search.action?ope=4&cid=7858\">王宮の鉄壁</a>」を発動した場合、カードを除外する事ができなくなりますが、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」の効果処理はどのように行いますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=7858\">王宮の鉄壁</a>」が表側表示で存在する時に、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」を発動する事はできません。\nまた、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」にチェーンをして「<a href=\"faq_search.action?ope=4&cid=7858\">王宮の鉄壁</a>」を発動した場合は、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」の効果処理時に、デッキからカードをドローし、闇属性モンスターが存在しない場合には、手札を全て墓地へ送ります。\nまた、ドローした際に、手札に闇属性モンスターがある場合、闇属性モンスターを除外する事ができないため、モンスターを相手に確認させるのみとなります。",
-  "date": "2017-03-24"
+  "title": "「王宮の鉄壁」や「アーティファクト－ロンギヌス」の効果によりカードを除外できない状況になった場合、「闇の誘惑」の処理はどうなりますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=7858\">王宮の鉄壁</a>」や「<a href=\"faq_search.action?ope=4&cid=11243\">アーティファクト－ロンギヌス</a>」の『③』の効果が適用され、カードを除外できない状況で、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」を発動する事はできますか？\n\nまた、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」の発動にチェーンをして「<a href=\"faq_search.action?ope=4&cid=7858\">王宮の鉄壁</a>」や「<a href=\"faq_search.action?ope=4&cid=11243\">アーティファクト－ロンギヌス</a>」の効果が発動した場合、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」の効果処理はどうなりますか？",
+  "answer": "既に「<a href=\"faq_search.action?ope=4&cid=7858\">王宮の鉄壁</a>」や「<a href=\"faq_search.action?ope=4&cid=11243\">アーティファクト－ロンギヌス</a>」の効果が適用されている状況で、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」を発動することはできません。\n\nまた、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」の発動にチェーンして「<a href=\"faq_search.action?ope=4&cid=7858\">王宮の鉄壁</a>」や「<a href=\"faq_search.action?ope=4&cid=11243\">アーティファクト－ロンギヌス</a>」の効果が発動した場合には、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」の効果処理としてデッキからカードをドローし、手札に闇属性モンスターが存在するのであれば、その闇属性モンスター1体を相手に確認させ、「<a href=\"faq_search.action?ope=4&cid=7570\">闇の誘惑</a>」の効果処理を完了します。手札に闇属性モンスターが存在しないのであれば、手札を全て墓地へ送ります。",
+  "date": "2021-04-02"
 }
