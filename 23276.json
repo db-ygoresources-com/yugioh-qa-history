@@ -1,0 +1,7 @@
+{
+  "fid": 23276,
+  "title": "自身の効果でモンスターに装備した「ZS－双頭龍賢者」が破壊された場合、どうなりますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=16420\">ＺＳ－双頭龍賢者</a>」の『①』の『自分の墓地から光属性以外の「No.」モンスター１体を選んで効果を無効にして特殊召喚し、自分フィールドからこのカードと「希望皇ホープ」モンスター１体をそれぞれ攻撃力１７００アップの装備カード扱いとしてその特殊召喚したモンスターに装備する』効果を発動しました。その処理として自分の墓地から「<a href=\"faq_search.action?ope=4&cid=10933\">No.101 S・H・Ark Knight</a>」を特殊召喚して「<a href=\"faq_search.action?ope=4&cid=16420\">ＺＳ－双頭龍賢者</a>」自身と「<a href=\"faq_search.action?ope=4&cid=10651\">CNo.39 希望皇ホープレイ・ヴィクトリー</a>」を装備しました。\n\nその後、その「<a href=\"faq_search.action?ope=4&cid=16420\">ＺＳ－双頭龍賢者</a>」が破壊された場合、「<a href=\"faq_search.action?ope=4&cid=10933\">No.101 S・H・Ark Knight</a>」の攻撃力はどうなりますか？",
+  "answer": "その場合でも、「<a href=\"faq_search.action?ope=4&cid=10651\">CNo.39 希望皇ホープレイ・ヴィクトリー</a>」が攻撃力１７００アップの装備カードとして装備されていますので、「<a href=\"faq_search.action?ope=4&cid=10933\">No.101 S・H・Ark Knight</a>」の攻撃力は３８００です。\n\nなお、「<a href=\"faq_search.action?ope=4&cid=16420\">ＺＳ－双頭龍賢者</a>」が破壊された場合でもその『①』の『このターン、自分は１度しか攻撃宣言できない』効果は既に適用されていますので、１度しか攻撃宣言できません。",
+  "date": "2021-06-11"
+}

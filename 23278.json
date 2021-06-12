@@ -1,0 +1,7 @@
+{
+  "fid": 23278,
+  "title": "同一チェーン上で複数回モンスターが特殊召喚された場合、「エコール・ド・ゾーン」の効果は発動しますか？",
+  "question": "フィールドゾーンに「<a href=\"faq_search.action?ope=4&cid=16415\">エコール・ド・ゾーン</a>」が存在する状態で、ターンプレイヤーがチェーン１で墓地の「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」を対象に「<a href=\"faq_search.action?ope=4&cid=4842\">死者蘇生</a>」を発動し、さらにチェーン２で「<a href=\"faq_search.action?ope=4&cid=12470\">マジシャンズ・ナビゲート</a>」を発動しました。\n\nその「<a href=\"faq_search.action?ope=4&cid=12470\">マジシャンズ・ナビゲート</a>」の処理によって手札・デッキから１体ずつ「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」が特殊召喚され、次いで「<a href=\"faq_search.action?ope=4&cid=4842\">死者蘇生</a>」の処理でさらに墓地から「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」が特殊召喚されました。\n\nその場合、チェーン処理後に「<a href=\"faq_search.action?ope=4&cid=16415\">エコール・ド・ゾーン</a>」の効果は発動しますか？",
+  "answer": "その場合でも「<a href=\"faq_search.action?ope=4&cid=16415\">エコール・ド・ゾーン</a>」の効果は発動します。\n\nなお、上記の状況では「<a href=\"faq_search.action?ope=4&cid=16415\">エコール・ド・ゾーン</a>」の『①』の効果が発動する条件『ターンプレイヤーがモンスター１体のみの召喚・反転召喚・特殊召喚に成功した場合』は３回満たされています。（モンスター１体の特殊召喚が、「<a href=\"faq_search.action?ope=4&cid=12470\">マジシャンズ・ナビゲート</a>」の処理で２回、「<a href=\"faq_search.action?ope=4&cid=4842\">死者蘇生</a>」の処理で１回行われています。）このような場合には、「<a href=\"faq_search.action?ope=4&cid=16415\">エコール・ド・ゾーン</a>」の効果を発動する際に、どの特殊召喚に対して発動するのかを対戦相手に伝える必要があります。",
+  "date": "2021-06-11"
+}
