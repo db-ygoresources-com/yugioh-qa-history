@@ -1,0 +1,7 @@
+{
+  "fid": 23356,
+  "title": "「神速召喚」を発動したターンに、「神速召喚」を墓地へ送って「ジョーカーズ・ワイルド」を発動できますか？",
+  "question": "『このカード名のカードは１ターンに１枚しか発動できない』カードである「<a href=\"faq_search.action?ope=4&cid=16482\">神速召喚</a>」を発動しているターンです。\n\nこのターンに「<a href=\"faq_search.action?ope=4&cid=16483\">ジョーカーズ・ワイルド</a>」の『①』の『自分・相手のメインフェイズ及びバトルフェイズに、デッキから「<a href=\"faq_search.action?ope=4&cid=5503\">クィーンズ・ナイト</a>」「<a href=\"faq_search.action?ope=4&cid=5559\">ジャックス・ナイト</a>」「<a href=\"faq_search.action?ope=4&cid=5558\">キングス・ナイト</a>」のカード名が全て記された魔法カード１枚を墓地へ送って発動できる。この効果は、その魔法カード発動時の効果と同じになる』効果を発動し、コストとして「<a href=\"faq_search.action?ope=4&cid=16482\">神速召喚</a>」を墓地へ送ることはできますか？",
+  "answer": "できます。結果として同一ターン中に「<a href=\"faq_search.action?ope=4&cid=16482\">神速召喚</a>」に記載された処理は２回行われることになります。\n\n「<a href=\"faq_search.action?ope=4&cid=16483\">ジョーカーズ・ワイルド</a>」の『①』のコストとして「<a href=\"faq_search.action?ope=4&cid=16482\">神速召喚</a>」を墓地へ送り、その処理を「<a href=\"faq_search.action?ope=4&cid=16482\">神速召喚</a>」の発動時の効果処理と同じ処理とした場合でも、これは「<a href=\"faq_search.action?ope=4&cid=16482\">神速召喚</a>」のカードの発動にはあたりません。したがって、「<a href=\"faq_search.action?ope=4&cid=16482\">神速召喚</a>」に記載された『このカード名のカードは１ターンに１枚しか発動できない』に影響することはありません。\n\n『このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない』テキストを持つ「<a href=\"faq_search.action?ope=4&cid=16480\">ジョーカーズ・ストレート</a>」を「<a href=\"faq_search.action?ope=4&cid=16483\">ジョーカーズ・ワイルド</a>」の『①』のコストとして墓地へ送る場合でも同様です。",
+  "date": "2021-09-24"
+}
