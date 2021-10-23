@@ -1,0 +1,7 @@
+{
+  "fid": 21036,
+  "title": "「招神鳥シムルグ」の効果で「絶神鳥シムルグ」を手札に加え、すぐにその「絶神鳥シムルグ」の『①』の効果を発動することはできますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=14462\">招神鳥シムルグ</a>」の召喚成功時に『①』の効果を発動し、その処理によってデッキから「<a href=\"faq_search.action?ope=4&cid=16828\">絶神鳥シムルグ</a>」を手札に加えました。\n\nこの効果処理後、「<a href=\"faq_search.action?ope=4&cid=14462\">招神鳥シムルグ</a>」が召喚されたことをきっかけに、手札に加えた「<a href=\"faq_search.action?ope=4&cid=16828\">絶神鳥シムルグ</a>」の『①』の効果を発動することはできますか？",
+  "answer": "そのタイミングは「<a href=\"faq_search.action?ope=4&cid=14462\">招神鳥シムルグ</a>」が召喚されたタイミングではありませんので、手札の「<a href=\"faq_search.action?ope=4&cid=16828\">絶神鳥シムルグ</a>」の『①』の効果を発動できません。\n\nなお、「<a href=\"faq_search.action?ope=4&cid=14462\">招神鳥シムルグ</a>」が召喚され、その『①』の効果を発動したタイミングで手札に「<a href=\"faq_search.action?ope=4&cid=16828\">絶神鳥シムルグ</a>」が存在するのであれば、チェーンして「<a href=\"faq_search.action?ope=4&cid=16828\">絶神鳥シムルグ</a>」の『①』の効果を発動することができます。",
+  "date": "2021-10-23"
+}
