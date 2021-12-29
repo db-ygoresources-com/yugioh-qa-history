@@ -1,0 +1,7 @@
+{
+  "fid": 23495,
+  "title": "「烙印融合」の効果で、フィールドの「心眼の女神」「アルバスの落胤」を融合素材に「神炎竜ルベリオン」を融合召喚できますか？",
+  "question": "フィールドに光属性の「<a href=\"faq_search.action?ope=4&cid=4115\">心眼の女神</a>」と闇属性の「<a href=\"faq_search.action?ope=4&cid=15245\">アルバスの落胤</a>」が存在します。\n\nその２体を「<a href=\"faq_search.action?ope=4&cid=17066\">烙印融合</a>」の効果で融合素材とし、『闇属性モンスター＋「<a href=\"faq_search.action?ope=4&cid=15245\">アルバスの落胤</a>」』を融合素材に指定されている「<a href=\"faq_search.action?ope=4&cid=17070\">神炎竜ルベリオン</a>」を融合召喚できますか？",
+  "answer": "できません。\n\n「<a href=\"faq_search.action?ope=4&cid=17066\">烙印融合</a>」の効果で融合召喚を行う場合、融合モンスターの融合素材のうち「<a href=\"faq_search.action?ope=4&cid=15245\">アルバスの落胤</a>」の部分には、カード名が「<a href=\"faq_search.action?ope=4&cid=15245\">アルバスの落胤</a>」であるモンスターを使用する必要があります。\n\nつまり、融合素材の「<a href=\"faq_search.action?ope=4&cid=15245\">アルバスの落胤</a>」として、「<a href=\"faq_search.action?ope=4&cid=15245\">アルバスの落胤</a>」そのものや、カード名が「<a href=\"faq_search.action?ope=4&cid=15245\">アルバスの落胤</a>」になっている「<a href=\"faq_search.action?ope=4&cid=16197\">黒衣竜アルビオン</a>」を使用することはできますが、「<a href=\"faq_search.action?ope=4&cid=4115\">心眼の女神</a>」を使用することはできません。（「<a href=\"faq_search.action?ope=4&cid=4115\">心眼の女神</a>」の効果は融合素材モンスターの代わりになる効果であり、カード名が変わる効果ではありません。）",
+  "date": "2021-12-29"
+}

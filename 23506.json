@@ -1,0 +1,7 @@
+{
+  "fid": 23506,
+  "title": "「マジシャンズ・ナビゲート」の効果処理時に「エルシャドール・ミドラーシュ」の効果が適用された場合、どうなりますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=12470\">マジシャンズ・ナビゲート</a>」にチェーンして「<a href=\"faq_search.action?ope=4&cid=11396\">神の写し身との接触</a>」を発動し「<a href=\"faq_search.action?ope=4&cid=11257\">エルシャドール・ミドラーシュ</a>」が融合召喚されました。\n\nそれにより、「<a href=\"faq_search.action?ope=4&cid=11257\">エルシャドール・ミドラーシュ</a>」の『②』の『お互いに１ターンに１度しかモンスターを特殊召喚できない』効果が適用された状況になりますが、「<a href=\"faq_search.action?ope=4&cid=12470\">マジシャンズ・ナビゲート</a>」の処理はどうなりますか？",
+  "answer": "その場合、手札から「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」を特殊召喚し、処理を終了します。\n\nなお、「<a href=\"faq_search.action?ope=4&cid=11257\">エルシャドール・ミドラーシュ</a>」の効果が適用されている状況で、「<a href=\"faq_search.action?ope=4&cid=12470\">マジシャンズ・ナビゲート</a>」を発動することはできません。",
+  "date": "2021-12-29"
+}
