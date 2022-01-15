@@ -1,0 +1,7 @@
+{
+  "fid": 23520,
+  "title": "「EXP」を同一ターン中に２枚発動できますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=17163\">EXP</a>」の効果が適用されたターンに、別の「<a href=\"faq_search.action?ope=4&cid=17163\">EXP</a>」を発動できますか？",
+  "answer": "できません。\n\nなお、「<a href=\"faq_search.action?ope=4&cid=17163\">EXP</a>」の効果が適用されたのち、それにより行ったEXデッキからのP召喚が無効になった場合でも、そのターンに別の「<a href=\"faq_search.action?ope=4&cid=17163\">EXP</a>」を発動することはできません。",
+  "date": "2022-01-14"
+}
