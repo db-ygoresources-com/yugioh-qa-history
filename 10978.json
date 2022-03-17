@@ -1,7 +1,7 @@
 {
   "fid": 10978,
-  "title": "「Sin パラドクス・ドラゴン」は、「Sin Worid」がフィールドに存在しない時でもシンクロ召喚できますか？",
+  "title": "「Sin パラドクス・ドラゴン」は、「Sin World」がフィールドに存在しない時でもシンクロ召喚できますか？",
   "question": "「<a href=\"faq_search.action?ope=4&cid=8867\">Sin パラドクス・ドラゴン</a>」は、「<a href=\"faq_search.action?ope=4&cid=9232\">Sin World</a>」がフィールドに存在しない時でもシンクロ召喚する事はできますか？\n\nまた、シンクロ召喚できる場合、自身の『③』のモンスター効果で「<a href=\"faq_search.action?ope=4&cid=8867\">Sin パラドクス・ドラゴン</a>」は破壊されますが、この時に「<a href=\"faq_search.action?ope=4&cid=8867\">Sin パラドクス・ドラゴン</a>」の『②』のモンスター効果や、「<a href=\"faq_search.action?ope=4&cid=9042\">Sin トゥルース・ドラゴン</a>」の『①』のモンスター効果を発動する事はできますか？",
   "answer": "「<a href=\"faq_search.action?ope=4&cid=9232\">Sin World</a>」がフィールドに存在しない場合にも「<a href=\"faq_search.action?ope=4&cid=8867\">Sin パラドクス・ドラゴン</a>」をシンクロ召喚をする事はできます。\n\nその場合、「<a href=\"faq_search.action?ope=4&cid=8867\">Sin パラドクス・ドラゴン</a>」は自身の『③』のモンスター効果によってただちに破壊され、フィールドに存在しなくなっていますので、『②』のモンスター効果を発動する事はできません。\n\nなお、「<a href=\"faq_search.action?ope=4&cid=9042\">Sin トゥルース・ドラゴン</a>」の『①』のモンスター効果を発動し、処理を行う事ができます。",
-  "date": "2020-06-22"
+  "date": "2022-03-16"
 }
