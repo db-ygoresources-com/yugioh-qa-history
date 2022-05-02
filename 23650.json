@@ -1,0 +1,7 @@
+{
+  "fid": 23650,
+  "title": "「神碑の泉」の『②』の効果を発動する際に、その発動のきっかけとなった「神碑」速攻魔法カードを対象に選択できますか？",
+  "question": "既に「<a href=\"faq_search.action?ope=4&cid=17373\">神碑の穂先</a>」と「<a href=\"faq_search.action?ope=4&cid=17376\">凍てつく呪いの神碑</a>」が墓地に存在する状況で「<a href=\"faq_search.action?ope=4&cid=17375\">破壊の神碑</a>」を発動しました。\n\nその「<a href=\"faq_search.action?ope=4&cid=17375\">破壊の神碑</a>」の発動をきっかけに「<a href=\"faq_search.action?ope=4&cid=17381\">神碑の泉</a>」の『②』の効果を発動する場合、「<a href=\"faq_search.action?ope=4&cid=17373\">神碑の穂先</a>」「<a href=\"faq_search.action?ope=4&cid=17376\">凍てつく呪いの神碑</a>」に加えてその「<a href=\"faq_search.action?ope=4&cid=17375\">破壊の神碑</a>」を対象に選択できますか？",
+  "answer": "選択できます。\n\n「<a href=\"faq_search.action?ope=4&cid=17381\">神碑の泉</a>」の『②』の『自分が「神碑」速攻魔法カードを発動した場合』に発動できる効果は、「神碑」速攻魔法カードが発動した場合に、その一連のチェーン処理の後に発動できる効果です。（「神碑」速攻魔法カードの発動にチェーンして発動できる効果ではありません。）\n\n質問の状況では「<a href=\"faq_search.action?ope=4&cid=17381\">神碑の泉</a>」の『②』の効果を発動するタイミングで使い終わった「<a href=\"faq_search.action?ope=4&cid=17375\">破壊の神碑</a>」は墓地へ送られていますので、「<a href=\"faq_search.action?ope=4&cid=17375\">破壊の神碑</a>」を含めて対象を選択できます。",
+  "date": "2022-05-02"
+}
