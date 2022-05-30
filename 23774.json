@@ -1,0 +1,7 @@
+{
+  "fid": 23774,
+  "title": "「リバースダイス」と「出たら目」の効果が適用されいる場合、これらの効果をどの順番で適用しますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=5797\">リバースダイス</a>」と「<a href=\"faq_search.action?ope=4&cid=11289\">出たら目</a>」の効果が適用されいる状況でサイコロを振った場合、これらの効果をどの順番で適用しますか？",
+  "answer": "「<a href=\"faq_search.action?ope=4&cid=5797\">リバースダイス</a>」「<a href=\"faq_search.action?ope=4&cid=11289\">出たら目</a>」のコントローラーにかかわらず、まず先に「<a href=\"faq_search.action?ope=4&cid=5797\">リバースダイス</a>」の効果を適用するかどうかを決定します。適用する場合、サイコロを振り直します。\n\n「<a href=\"faq_search.action?ope=4&cid=5797\">リバースダイス</a>」の効果を適用しなかった場合、次に「<a href=\"faq_search.action?ope=4&cid=11289\">出たら目</a>」の効果を適用するかどうかを決定します。（「<a href=\"faq_search.action?ope=4&cid=11289\">出たら目</a>」の効果を適用した後で「<a href=\"faq_search.action?ope=4&cid=5797\">リバースダイス</a>」の効果を適用することはできません。）\n\n「<a href=\"faq_search.action?ope=4&cid=5797\">リバースダイス</a>」の効果でサイコロを振り直した場合、振り直して出た目に対して「<a href=\"faq_search.action?ope=4&cid=11289\">出たら目</a>」の効果を適用するかどうかを決定します。",
+  "date": "2022-05-30"
+}
