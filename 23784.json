@@ -1,0 +1,7 @@
+{
+  "fid": 23784,
+  "title": "「ジョーカーズ・ワイルド」の効果で「ロイヤル・ストレート・スラッシャー」を特殊召喚できますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=17621\">ロイヤル・ストレート</a>」を墓地へ送って「<a href=\"faq_search.action?ope=4&cid=16483\">ジョーカーズ・ワイルド</a>」の①の『自分・相手のメインフェイズ及びバトルフェイズに、デッキから「<a href=\"faq_search.action?ope=4&cid=5503\">クィーンズ・ナイト</a>」「<a href=\"faq_search.action?ope=4&cid=5559\">ジャックス・ナイト</a>」「<a href=\"faq_search.action?ope=4&cid=5558\">キングス・ナイト</a>」のカード名が全て記された魔法カード１枚を墓地へ送って発動できる。この効果は、その魔法カード発動時の効果と同じになる』効果を発動し、その効果で「<a href=\"faq_search.action?ope=4&cid=17620\">ロイヤル・ストレート・スラッシャー</a>」を特殊召喚できますか？",
+  "answer": "できません。\n\n「<a href=\"faq_search.action?ope=4&cid=16483\">ジョーカーズ・ワイルド</a>」の①の効果の処理時には、別の魔法・罠カードの発動時の効果処理を、「<a href=\"faq_search.action?ope=4&cid=16483\">ジョーカーズ・ワイルド</a>」の効果処理として適用します。\n\nつまり、「<a href=\"faq_search.action?ope=4&cid=17621\">ロイヤル・ストレート</a>」の効果を適用する場合でも、そのモンスターは「<a href=\"faq_search.action?ope=4&cid=16483\">ジョーカーズ・ワイルド</a>」の効果によって特殊召喚されることになりますので、「<a href=\"faq_search.action?ope=4&cid=17621\">ロイヤル・ストレート</a>」の効果でのみ特殊召喚可能なモンスターである「<a href=\"faq_search.action?ope=4&cid=17620\">ロイヤル・ストレート・スラッシャー</a>」は特殊召喚できません。",
+  "date": "2022-06-08"
+}
