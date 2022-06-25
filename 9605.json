@@ -1,7 +1,0 @@
-{
-  "fid": 9605,
-  "title": "「The tyrant NEPTUNE」に「巨大化」を装備した場合、攻撃力はいくつになりますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」が、リリースしたモンスターの攻撃力の合計の数値分攻撃力がアップしている時に、「<a href=\"faq_search.action?ope=4&cid=4663\">巨大化</a>」を装備した場合、攻撃力はどのように変化しますか？\nまた、「<a href=\"faq_search.action?ope=4&cid=8089\">トラゴエディア</a>」を対象に「<a href=\"faq_search.action?ope=4&cid=4663\">巨大化</a>」を装備した場合、攻撃力はどのように変化しますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」に「<a href=\"faq_search.action?ope=4&cid=4663\">巨大化</a>」を装備した場合、カードに記載されている元々の攻撃力を、「<a href=\"faq_search.action?ope=4&cid=4663\">巨大化</a>」の効果によって倍や半分にした後、自身の効果によって、攻撃力がアップします。\nしたがって、自身の効果によって攻撃力が変化している「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」の攻撃力は、元々の攻撃力である0を倍や半分の0にした後、リリースしたモンスターの攻撃力の合計の数値分アップします。\nなお、「<a href=\"faq_search.action?ope=4&cid=8089\">トラゴエディア</a>」に「<a href=\"faq_search.action?ope=4&cid=4663\">巨大化</a>」を装備した場合、元々の攻撃力である0を倍や半分の0にした後、手札の枚数×600ポイント攻撃力がアップします。",
-  "date": "2017-03-24"
-}
