@@ -1,0 +1,7 @@
+{
+  "fid": 23797,
+  "title": "「超時空戦闘機ビック・バイパー」のカード名が変わった場合、「オプション」はどうなりますか？",
+  "question": "自分のモンスターゾーンに、自身の①の効果により「<a href=\"faq_search.action?ope=4&cid=5140\">超時空戦闘機ビック・バイパー</a>」のカード名を得ている「<a href=\"faq_search.action?ope=4&cid=12775\">WW－クリスタル・ベル</a>」と、それを指定して特殊召喚された「<a href=\"faq_search.action?ope=4&cid=5372\">オプション</a>」が存在しています。\n\nこのターンのエンドフェイズに「<a href=\"faq_search.action?ope=4&cid=12775\">WW－クリスタル・ベル</a>」の①の効果の適用がなくなりカード名が「<a href=\"faq_search.action?ope=4&cid=12775\">WW－クリスタル・ベル</a>」に戻る際、「<a href=\"faq_search.action?ope=4&cid=5372\">オプション</a>」はどうなりますか？",
+  "answer": "フィールドに残ります。\n\nなお、『このカードの攻撃力・守備力は常に選択したモンスターと同じになる』効果はそれ以降も引き続き適用され、常に「<a href=\"faq_search.action?ope=4&cid=12775\">WW－クリスタル・ベル</a>」と同じ攻撃力・守備力になります。",
+  "date": "2022-06-26"
+}
