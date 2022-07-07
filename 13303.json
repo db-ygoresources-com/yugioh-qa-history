@@ -1,7 +1,0 @@
-{
-  "fid": 13303,
-  "title": "「成功確率０％」の効果で、エクストラデッキから墓地へ送られている「E・HERO」融合モンスターを「E・HERO Core」の効果で特殊召喚できますか？",
-  "question": "相手の発動した「<a href=\"faq_search.action?ope=4&cid=6623\">成功確率０％</a>」の効果で、自分のエクストラデッキから「<a href=\"faq_search.action?ope=4&cid=8122\">E・HERO ガイア</a>」等が墓地へ送られています。\n\nその後、「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」の『③：このカードが戦闘・効果で破壊された時、自分の墓地のレベル８以下の「E・HERO」融合モンスター１体を対象として発動できる。そのモンスターを召喚条件を無視して特殊召喚する』効果で、その「<a href=\"faq_search.action?ope=4&cid=8122\">E・HERO ガイア</a>」等を対象とする事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」の『③：このカードが戦闘・効果で破壊された時、自分の墓地のレベル８以下の「E・HERO」融合モンスター１体を対象として発動できる。そのモンスターを召喚条件を無視して特殊召喚する』効果を発動する際に、対象として選択するモンスターは一度、融合召喚によってフィールドに特殊召喚され、その後に墓地へ送られているモンスターでなければなりません。\n\n「<a href=\"faq_search.action?ope=4&cid=6623\">成功確率０％</a>」の効果によってエクストラデッキから墓地へ送られている「<a href=\"faq_search.action?ope=4&cid=8122\">E・HERO ガイア</a>」等を、「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」の効果で特殊召喚する事はできません。",
-  "date": "2017-03-24"
-}
