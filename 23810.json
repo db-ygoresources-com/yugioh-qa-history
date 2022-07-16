@@ -1,0 +1,7 @@
+{
+  "fid": 23810,
+  "title": "フィールドやデッキから墓地へ送られるモンスターが除外される状況で、「BF－無頼のヴァータ」の②の効果の発動・処理を行えますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=14740\">ディメンション・アトラクター</a>」「<a href=\"faq_search.action?ope=4&cid=6682\">マクロコスモス</a>」の『墓地へ送られるカードは墓地へは行かず除外される』効果や、「<a href=\"faq_search.action?ope=4&cid=15515\">電脳堺狐－仙々</a>」の『フィールドから墓地へ送られるカードは墓地へは行かず除外される』効果、「<a href=\"faq_search.action?ope=4&cid=11384\">虹光の宣告者</a>」の『お互いの手札・デッキから墓地へ送られるモンスターは墓地へは行かず除外される』効果が適用されている状況で、「<a href=\"faq_search.action?ope=4&cid=17757\">BF－無頼のヴァータ</a>」の②の効果を発動し、レベル２の「<a href=\"faq_search.action?ope=4&cid=17757\">BF－無頼のヴァータ</a>」とレベル６の「<a href=\"faq_search.action?ope=4&cid=8165\">BF－漆黒のエルフェン</a>」を除外して「<a href=\"faq_search.action?ope=4&cid=8815\">ブラックフェザー・ドラゴン</a>」を特殊召喚できますか？",
+  "answer": "いずれの状況でも、「<a href=\"faq_search.action?ope=4&cid=17757\">BF－無頼のヴァータ</a>」の②の効果を発動できます。ただし、処理時に墓地へ送られる「<a href=\"faq_search.action?ope=4&cid=17757\">BF－無頼のヴァータ</a>」やデッキのモンスターが墓地へ行かずに除外された場合にはそこで処理を完了することになり、「<a href=\"faq_search.action?ope=4&cid=8815\">ブラックフェザー・ドラゴン</a>」を特殊召喚する処理は行われません。",
+  "date": "2022-07-14"
+}
