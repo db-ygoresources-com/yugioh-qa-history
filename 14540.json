@@ -1,7 +1,7 @@
 {
   "fid": 14540,
-  "title": "「マクロコスモス」の適用中、「ジェット・シンクロン」を自身の効果で墓地から特殊召喚する事はできますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=6682\">マクロコスモス</a>」の適用中、墓地に存在する「<a href=\"faq_search.action?ope=4&cid=11620\">ジェット・シンクロン</a>」の『②：このカードが墓地に存在する場合、手札を１枚墓地へ送って発動できる。このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される』効果を発動する事はできますか？",
-  "answer": "できません。",
-  "date": "2017-03-24"
+  "title": "「マクロコスモス」の適用中、コストとしてカードを墓地へ送る必要がある効果を発動できますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=6682\">マクロコスモス</a>」などが持つ『墓地へ送られるカードは墓地へは行かず除外される』効果が適用されている状況で、「<a href=\"faq_search.action?ope=4&cid=11620\">ジェット・シンクロン</a>」の②の『手札を１枚墓地へ送って発動できる』効果や、「<a href=\"faq_search.action?ope=4&cid=6262\">レスキューキャット</a>」の『フィールドのこのカードを墓地へ送って発動できる』効果を発動できますか？",
+  "answer": "墓地へ送られるカードが除外されてしまい、コストとしてカードを墓地へ送ることができないため、「<a href=\"faq_search.action?ope=4&cid=11620\">ジェット・シンクロン</a>」の②の効果や「<a href=\"faq_search.action?ope=4&cid=6262\">レスキューキャット</a>」の効果を発動できません。\n\nなお、以下のカードの効果についても同様です。\n「<a href=\"faq_search.action?ope=4&cid=7574\">オネスト</a>」の②\n「<a href=\"faq_search.action?ope=4&cid=12828\">クリアウィング・ファスト・ドラゴン</a>」のP効果の①\n「<a href=\"faq_search.action?ope=4&cid=12026\">フレシアの蟲惑魔</a>」の③\n「<a href=\"faq_search.action?ope=4&cid=15123\">黄金卿エルドリッチ</a>」の②\n「<a href=\"faq_search.action?ope=4&cid=17430\">斬機サーキュラー</a>」の①\n「<a href=\"faq_search.action?ope=4&cid=17119\">セリオンズ“キング”レギュラス</a>」の②\n「<a href=\"faq_search.action?ope=4&cid=9455\">増殖するG</a>」の①\n「<a href=\"faq_search.action?ope=4&cid=15487\">鉄獣戦線 フラクトール</a>」の①\n「<a href=\"faq_search.action?ope=4&cid=17069\">氷剣竜ミラジェイド</a>」の②",
+  "date": "2022-07-25"
 }
