@@ -2,6 +2,6 @@
   "fid": 15586,
   "title": "「手違い」、「ドロール＆ロックバード」や「ライオウ」の効果の適用中に「捕違い」を発動できますか？",
   "question": "「<a href=\"faq_search.action?ope=4&cid=10807\">手違い</a>」、「<a href=\"faq_search.action?ope=4&cid=9279\">ドロール＆ロックバード</a>」や「<a href=\"faq_search.action?ope=4&cid=7397\">ライオウ</a>」の効果の適用中に「<a href=\"faq_search.action?ope=4&cid=11849\">捕違い</a>」を発動する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=10807\">手違い</a>」、「<a href=\"faq_search.action?ope=4&cid=9279\">ドロール＆ロックバード</a>」や「<a href=\"faq_search.action?ope=4&cid=7397\">ライオウ</a>」の効果が適用されている場合、お互いのプレイヤーは「<a href=\"faq_search.action?ope=4&cid=11849\">捕違い</a>」を発動する事はできません。",
-  "date": "2017-03-24"
+  "answer": "発動でき、その処理も適用されます。\n\n処理が適用された場合、その後「<a href=\"faq_search.action?ope=4&cid=10807\">手違い</a>」「<a href=\"faq_search.action?ope=4&cid=9279\">ドロール＆ロックバード</a>」「<a href=\"faq_search.action?ope=4&cid=7397\">ライオウ</a>」の効果の適用がなくなったとしても、次の自分ターンの終了時まではお互いにドロー以外の方法でデッキからカードを手札に加えることができなくなります。",
+  "date": "2022-08-03"
 }
