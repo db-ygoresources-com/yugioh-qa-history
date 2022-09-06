@@ -1,7 +1,0 @@
-{
-  "fid": 23550,
-  "title": "「マクロコスモス」が存在する状況で、「融合」を発動し、融合召喚する事はできますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=6682\">マクロコスモス</a>」や「<a href=\"faq_search.action?ope=4&cid=14740\">ディメンション・アトラクター</a>」等の効果が適用されている場合、墓地へ送られるカードは墓地に送られずゲームから除外されますが、その状況で「<a href=\"faq_search.action?ope=4&cid=4837\">融合</a>」や「<a href=\"faq_search.action?ope=4&cid=6398\">パワー・ボンド</a>」、「<a href=\"faq_search.action?ope=4&cid=11268\">影依融合</a>」、「<a href=\"faq_search.action?ope=4&cid=17066\">烙印融合</a>」を発動し、融合召喚を行うことはできますか？",
-  "answer": "いずれも発動できます。\n\n処理時に墓地に送る融合素材モンスターは除外されますが、エクストラデッキから融合モンスターを融合召喚する処理を行います。",
-  "date": "2022-05-06"
-}
