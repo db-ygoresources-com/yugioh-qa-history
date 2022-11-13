@@ -1,7 +1,0 @@
-{
-  "fid": 19754,
-  "title": "「EMゴールド・ファング」のモンスター効果で攻撃力がアップした後、「スキルドレイン」が適用された場合、攻撃力はどうなりますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=12701\">EMゴールド・ファング</a>」の『①：このカードが召喚・特殊召喚に成功した場合に発動する。自分フィールドの「EM」モンスターの攻撃力はターン終了時まで２００アップする』モンスター効果が発動し、自分のモンスターゾーンに表側表示で存在する「<a href=\"faq_search.action?ope=4&cid=11301\">EMシルバー・クロウ</a>」と「<a href=\"faq_search.action?ope=4&cid=12701\">EMゴールド・ファング</a>」の攻撃力が200アップしました。\n\nその結果、「<a href=\"faq_search.action?ope=4&cid=11301\">EMシルバー・クロウ</a>」の攻撃力は2000、「<a href=\"faq_search.action?ope=4&cid=12701\">EMゴールド・ファング</a>」の攻撃力は2100になっています。\n\nこの状況で相手が「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」を発動し、「<a href=\"faq_search.action?ope=4&cid=12701\">EMゴールド・ファング</a>」のモンスター効果を無効化した場合、「<a href=\"faq_search.action?ope=4&cid=11301\">EMシルバー・クロウ</a>」と「<a href=\"faq_search.action?ope=4&cid=12701\">EMゴールド・ファング</a>」の攻撃力はどうなりますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=12701\">EMゴールド・ファング</a>」の『自分フィールドの「EM」モンスターの攻撃力はターン終了時まで２００アップする』モンスター効果の適用後、「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」が適用された場合でも、アップしたモンスターの攻撃力は適用されたままとなります。\n\n（質問の状況の場合、「<a href=\"faq_search.action?ope=4&cid=11301\">EMシルバー・クロウ</a>」の攻撃力は2000のまま、「<a href=\"faq_search.action?ope=4&cid=12701\">EMゴールド・ファング</a>」の攻撃力は2100のままとなります。ターン終了時に効果の適用がなくなった際に、攻撃力は元に戻ります。）",
-  "date": "2017-03-24"
-}

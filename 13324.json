@@ -1,7 +1,0 @@
-{
-  "fid": 13324,
-  "title": "「M・HERO 光牙」の効果でモンスターの攻撃力がダウンした後に「スキルドレイン」が発動した場合、攻撃力はどうなりますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=11311\">M・HERO 光牙</a>」の『②：１ターンに１度、自分の墓地の「HERO」モンスター１体を除外し、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、この効果を発動するために除外したモンスターの攻撃力分ダウンする。この効果は相手ターンでも発動できる』効果を発動し、対象のモンスターの攻撃力がダウンしました。\n\nその後、「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」が発動し、「<a href=\"faq_search.action?ope=4&cid=11311\">M・HERO 光牙</a>」の効果が無効になった場合、「<a href=\"faq_search.action?ope=4&cid=11311\">M・HERO 光牙</a>」の効果で攻撃力がダウンしたモンスターの攻撃力はどうなりますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=11311\">M・HERO 光牙</a>」の効果が適用され、対象のモンスターの攻撃力がダウンした後に、「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」が発動し、「<a href=\"faq_search.action?ope=4&cid=11311\">M・HERO 光牙</a>」の効果が無効になった場合でも、選択したモンスターの攻撃力はターン終了時までダウンしたままとなります。\n（「<a href=\"faq_search.action?ope=4&cid=11311\">M・HERO 光牙</a>」の効果によって、「<a href=\"faq_search.action?ope=4&cid=11311\">M・HERO 光牙</a>」自身の攻撃力をダウンさせた場合でも同様です。）",
-  "date": "2017-03-24"
-}
