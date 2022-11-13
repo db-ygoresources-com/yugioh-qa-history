@@ -1,7 +1,0 @@
-{
-  "fid": 6992,
-  "title": "「霧の王」の効果が「スキルドレイン」の効果によって無効化される場合、その処理はどうなりますか？",
-  "question": "アドバンス召喚した「<a href=\"faq_search.action?ope=4&cid=7404\">霧の王</a>」の効果が「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」の効果によって無効化される場合、攻撃力の数値等はどのようになりますか？\nまた、モンスターをリリースする事はできますか？",
-  "answer": "自身の効果によって攻撃力が変化している「<a href=\"faq_search.action?ope=4&cid=7404\">霧の王</a>」が存在する時に「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」の効果が適用された場合、「<a href=\"faq_search.action?ope=4&cid=7404\">霧の王</a>」の攻撃力の数値は0になります。\nまた、「<a href=\"faq_search.action?ope=4&cid=7404\">霧の王</a>」の効果が無効化されている場合、モンスターをリリースできるようになります。\nなお、その後「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」の効果が適用されなくなった場合でも、「<a href=\"faq_search.action?ope=4&cid=7404\">霧の王</a>」の攻撃力は0のままとなります。",
-  "date": "2017-03-24"
-}

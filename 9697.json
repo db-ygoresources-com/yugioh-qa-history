@@ -1,7 +1,0 @@
-{
-  "fid": 9697,
-  "title": "「スキルドレイン」適用中、「E・HERO ネオス・ナイト」の攻撃力はいくつになりますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=8866\">E・HERO ネオス・ナイト</a>」の攻撃力が、自身の効果によってアップしている時に、「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」等の効果が適用される場合、攻撃力はいくつになりますか？\nまた、その後「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」の効果が適用されなくなった場合、攻撃力はいくつになりますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」等の効果が適用され、「<a href=\"faq_search.action?ope=4&cid=8866\">E・HERO ネオス・ナイト</a>」の効果が無効化される場合、攻撃力はカードに記載されている2500になります。\nまた、その後「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」がフィールド上から離れた場合でも、攻撃力がアップする効果は適用されず、「<a href=\"faq_search.action?ope=4&cid=8866\">E・HERO ネオス・ナイト</a>」の攻撃力は2500のままとなります。",
-  "date": "2017-03-24"
-}

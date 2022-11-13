@@ -1,7 +1,0 @@
-{
-  "fid": 12327,
-  "title": "「ヴェルズ・サンダーバード」の攻撃力が自身の効果でアップしている時に「スキルドレイン」を発動した場合、攻撃力は元に戻りますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=9993\">ヴェルズ・サンダーバード</a>」の攻撃力が、自身の効果によって300ポイントアップしている時に「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」等の効果が適用された場合、「<a href=\"faq_search.action?ope=4&cid=9993\">ヴェルズ・サンダーバード</a>」の攻撃力は元に戻りますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=9993\">ヴェルズ・サンダーバード</a>」の攻撃力が、自身の効果によって300ポイントアップしている時に、「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」等の効果が適用された場合、「<a href=\"faq_search.action?ope=4&cid=9993\">ヴェルズ・サンダーバード</a>」の攻撃力は元々の数値に戻ります。\nその後、「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」の効果が適用されなくなった場合でも、「<a href=\"faq_search.action?ope=4&cid=9993\">ヴェルズ・サンダーバード</a>」の攻撃力が再びアップする事はありません。",
-  "date": "2017-03-24"
-}

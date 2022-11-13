@@ -1,7 +1,0 @@
-{
-  "fid": 8394,
-  "title": "「禁じられた聖杯」の効果で、無効になった「神獣王バルバロス」の攻撃力はいくつになりますか？",
-  "question": "モンスターをリリースせずに召喚し、元々の攻撃力が1900として扱われている「<a href=\"faq_search.action?ope=4&cid=7346\">神獣王バルバロス</a>」が「<a href=\"faq_search.action?ope=4&cid=8213\">禁じられた聖杯</a>」の効果を受ける場合、「<a href=\"faq_search.action?ope=4&cid=7346\">神獣王バルバロス</a>」の攻撃力はいくつになりますか？",
-  "answer": "自身の効果によって攻撃力が1900になっている「<a href=\"faq_search.action?ope=4&cid=7346\">神獣王バルバロス</a>」が、「<a href=\"faq_search.action?ope=4&cid=8213\">禁じられた聖杯</a>」の効果を受ける場合、効果が無効になる事によって、攻撃力はカードに記載された元々の攻撃力の3000になる為、「<a href=\"faq_search.action?ope=4&cid=8213\">禁じられた聖杯</a>」の効果によってさらに400ポイントアップした3400となります。\nなお、「<a href=\"faq_search.action?ope=4&cid=8213\">禁じられた聖杯</a>」の効果が適用されなくなる場合でも、「<a href=\"faq_search.action?ope=4&cid=7346\">神獣王バルバロス</a>」の攻撃力は、3000のままとなります。",
-  "date": "2017-03-24"
-}

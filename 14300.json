@@ -1,7 +1,0 @@
-{
-  "fid": 14300,
-  "title": "「真魔獣 ガーゼット」に「スキルドレイン」が適用された場合、攻撃力はどうなりますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」の適用中に、「<a href=\"faq_search.action?ope=4&cid=11562\">真魔獣 ガーゼット</a>」を特殊召喚した場合、攻撃力はどうなりますか？\n\nまた、「<a href=\"faq_search.action?ope=4&cid=11562\">真魔獣 ガーゼット</a>」が特殊召喚された後に「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」が適用された場合、攻撃力はどうなりますか？",
-  "answer": "質問のいずれの状況の場合でも、「<a href=\"faq_search.action?ope=4&cid=11562\">真魔獣 ガーゼット</a>」の効果が「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」によって無効になりますので、その「<a href=\"faq_search.action?ope=4&cid=11562\">真魔獣 ガーゼット</a>」の攻撃力は０に戻ります。\n\nその後に「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」の効果の適用がなくなった場合でも、「<a href=\"faq_search.action?ope=4&cid=11562\">真魔獣 ガーゼット</a>」の攻撃力は０のままとなります。",
-  "date": "2017-03-24"
-}
