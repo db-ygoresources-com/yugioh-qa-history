@@ -1,7 +1,0 @@
-{
-  "fid": 13730,
-  "title": "「スキルドレイン」の適用中に、フィールドから離れた「こけコッコ」は除外されますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」が適用され、「<a href=\"faq_search.action?ope=4&cid=10816\">こけコッコ</a>」の効果が無効になっている状態で、「<a href=\"faq_search.action?ope=4&cid=10816\">こけコッコ</a>」が破壊されました。\n\nこの場合、「<a href=\"faq_search.action?ope=4&cid=10816\">こけコッコ</a>」は墓地へ送られますか？\nそれとも、除外されますか？",
-  "answer": "その場合でも、「<a href=\"faq_search.action?ope=4&cid=10816\">こけコッコ</a>」の『③：表側表示のこのカードはフィールドから離れた場合に除外される』効果が適用され、除外されます。",
-  "date": "2017-03-24"
-}
