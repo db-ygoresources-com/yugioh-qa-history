@@ -1,7 +1,0 @@
-{
-  "fid": 12679,
-  "title": "「群雄割拠」の発動にチェーンして「侵略の汎発感染」を発動した場合、処理はどのように行いますか？",
-  "question": "自分フィールド上に「<a href=\"faq_search.action?ope=4&cid=10006\">ヴェルズ・オピオン</a>」と「<a href=\"faq_search.action?ope=4&cid=10441\">ヴェルズ・ケルキオン</a>」が存在する状態にて「<a href=\"faq_search.action?ope=4&cid=5622\">群雄割拠</a>」が発動し、それにチェーンして「<a href=\"faq_search.action?ope=4&cid=10010\">侵略の汎発感染</a>」を発動した場合、「<a href=\"faq_search.action?ope=4&cid=10006\">ヴェルズ・オピオン</a>」と「<a href=\"faq_search.action?ope=4&cid=10441\">ヴェルズ・ケルキオン</a>」は『このターンこのカード以外の魔法・罠カードの効果を受けない』状態となりますが、「<a href=\"faq_search.action?ope=4&cid=5622\">群雄割拠</a>」の処理はどのように行いますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=5622\">群雄割拠</a>」はモンスターに適用される効果ではありません。「<a href=\"faq_search.action?ope=4&cid=10010\">侵略の汎発感染</a>」等が適用されているモンスターがフィールド上に存在するような場合でも、自分フィールド上のモンスターの種族が１種類となるように墓地へ送らなければなりません。\n\n質問の状況の場合、「<a href=\"faq_search.action?ope=4&cid=10006\">ヴェルズ・オピオン</a>」か、「<a href=\"faq_search.action?ope=4&cid=10441\">ヴェルズ・ケルキオン</a>」のどちらかを墓地へ送る事になります。",
-  "date": "2017-03-24"
-}
