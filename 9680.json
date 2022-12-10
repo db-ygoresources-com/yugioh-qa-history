@@ -1,7 +1,0 @@
-{
-  "fid": 9680,
-  "title": "魔力カウンターが乗っているカードの効果が無効化された場合、どのようになりますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=5655\">魔導戦士 ブレイカー</a>」や「<a href=\"faq_search.action?ope=4&cid=5658\">王立魔法図書館</a>」等に魔力カウンターが乗っている時に、「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」等の効果が適用される場合、乗っていた魔力カウンターは取り除かれますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=5740\">スキルドレイン</a>」等の効果が適用され、「<a href=\"faq_search.action?ope=4&cid=5655\">魔導戦士 ブレイカー</a>」や「<a href=\"faq_search.action?ope=4&cid=5658\">王立魔法図書館</a>」等の効果が無効化される場合、そのカードに乗っていた魔力カウンターは取り除かれます。",
-  "date": "2017-03-24"
-}
