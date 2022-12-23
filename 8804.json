@@ -1,7 +1,0 @@
-{
-  "fid": 8804,
-  "title": "「コアキメイルの鋼核」の効果処理時に、除外されると手札に加える事ができませんが、その後、通常のドローはできますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=8207\">コアキメイルの鋼核</a>」や「<a href=\"faq_search.action?ope=4&cid=6532\">マジックブラスト</a>」、「<a href=\"faq_search.action?ope=4&cid=8340\">スピリット・バーナー</a>」の、ドローフェイズで通常のドローを行う代わりに、墓地に存在する「<a href=\"faq_search.action?ope=4&cid=8207\">コアキメイルの鋼核</a>」等を手札に加える効果を発動した時に、チェーンをして発動した「<a href=\"faq_search.action?ope=4&cid=6980\">D.D.クロウ</a>」や「<a href=\"faq_search.action?ope=4&cid=5397\">ロスト</a>」等の効果によって、効果を発動した「<a href=\"faq_search.action?ope=4&cid=8207\">コアキメイルの鋼核</a>」が除外される場合、「<a href=\"faq_search.action?ope=4&cid=8207\">コアキメイルの鋼核</a>」を手札に加える事はできませんが、通常のドローを行う事ができますか？",
-  "answer": "チェーンをして発動した「<a href=\"faq_search.action?ope=4&cid=6980\">D.D.クロウ</a>」等の効果によって、効果を発動した「<a href=\"faq_search.action?ope=4&cid=8207\">コアキメイルの鋼核</a>」等が除外され、手札に加える事ができない場合でも、既に通常のドローを行う代わりに「<a href=\"faq_search.action?ope=4&cid=8207\">コアキメイルの鋼核</a>」等の効果を発動しているため、その後に通常のドローを行う事はできません。",
-  "date": "2017-03-24"
-}
