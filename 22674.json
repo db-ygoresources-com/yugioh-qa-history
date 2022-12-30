@@ -3,5 +3,5 @@
   "title": "「抹殺の指名者」を宣言して、「抹殺の指名者」を発動できますか？",
   "question": "自分が手札の「<a href=\"faq_search.action?ope=4&cid=9455\">増殖するG</a>」の効果を発動した時、チェーンして相手が「<a href=\"faq_search.action?ope=4&cid=14627\">抹殺の指名者</a>」を発動し、「<a href=\"faq_search.action?ope=4&cid=9455\">増殖するG</a>」のカード名を宣言しました。\n\nこの時、自分はさらにチェーンして「<a href=\"faq_search.action?ope=4&cid=14627\">抹殺の指名者</a>」を発動する際に、「<a href=\"faq_search.action?ope=4&cid=14627\">抹殺の指名者</a>」のカード名を宣言する事はできますか？",
   "answer": "「<a href=\"faq_search.action?ope=4&cid=14627\">抹殺の指名者</a>」を発動する際に宣言するカード名として「<a href=\"faq_search.action?ope=4&cid=14627\">抹殺の指名者</a>」を宣言する事はできます。\n\n質問の状況の場合、自分が発動した「<a href=\"faq_search.action?ope=4&cid=14627\">抹殺の指名者</a>」の効果によって、デッキから「<a href=\"faq_search.action?ope=4&cid=14627\">抹殺の指名者</a>」を除外します。\n\n相手が発動した「<a href=\"faq_search.action?ope=4&cid=14627\">抹殺の指名者</a>」は『ターン終了時まで、この効果で除外したカード及びそのカードと元々のカード名が同じカードの効果は無効化される』効果によって無効化されますので、相手は宣言した「<a href=\"faq_search.action?ope=4&cid=9455\">増殖するG</a>」をデッキから除外する事はありません。\n結果的に自分が発動した「<a href=\"faq_search.action?ope=4&cid=9455\">増殖するG</a>」の効果は通常通り適用される事になります。",
-  "date": "2019-06-07"
+  "date": "2022-12-30"
 }

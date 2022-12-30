@@ -3,5 +3,5 @@
   "title": "「S－Force ドッグ・タッグ」の正面の「I：Pマスカレーナ」は効果を発動できますか？",
   "question": "「<a href=\"faq_search.action?ope=4&cid=15975\">S－Force ドッグ・タッグ</a>」の正面のモンスターゾーンに「<a href=\"faq_search.action?ope=4&cid=14676\">I：Pマスカレーナ</a>」が存在します。\n\nこの「<a href=\"faq_search.action?ope=4&cid=14676\">I：Pマスカレーナ</a>」の『①：相手メインフェイズに発動できる。このカードを含む自分フィールドのモンスターをリンク素材としてリンク召喚する』効果を発動できますか？",
   "answer": "できません。\n\n「<a href=\"faq_search.action?ope=4&cid=14676\">I：Pマスカレーナ</a>」の『①』の効果を発動できるのは「<a href=\"faq_search.action?ope=4&cid=15975\">S－Force ドッグ・タッグ</a>」のコントローラーのターンのメインフェイズですが、そのフェイズには「<a href=\"faq_search.action?ope=4&cid=15975\">S－Force ドッグ・タッグ</a>」の『②：このカードがモンスターゾーンに存在する限り、自分メインフェイズ中に、自分の「S－Force」モンスターの正面の相手モンスターは効果を発動できない』効果が適用されています。",
-  "date": "2021-01-15"
+  "date": "2022-12-30"
 }

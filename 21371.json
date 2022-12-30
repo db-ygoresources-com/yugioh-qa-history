@@ -3,5 +3,5 @@
   "title": "「SPYGAL－ミスティ」のモンスター効果で持ち主の手札に戻す対象として、「SPYRAL－ザ・ダブルヘリックス」を選択できますか？",
   "question": "「<a href=\"faq_search.action?ope=4&cid=12877\">SPYGAL－ミスティ</a>」の『②：１ターンに１度、自分フィールドの「<a href=\"faq_search.action?ope=4&cid=12688\">SPYRAL－ダンディ</a>」１体と相手フィールドのモンスター１体を対象として発動できる。そのモンスター２体を持ち主の手札に戻す。この効果は相手ターンでも発動できる』モンスター効果を発動する際に、自分のモンスターゾーンに存在する「<a href=\"faq_search.action?ope=4&cid=13371\">SPYRAL－ザ・ダブルヘリックス</a>」と、相手フィールドのモンスター1体を対象として発動する事はできますか？",
   "answer": "「<a href=\"faq_search.action?ope=4&cid=13371\">SPYRAL－ザ・ダブルヘリックス</a>」は自身の『①：このカードのカード名は、フィールド・墓地に存在する限り「<a href=\"faq_search.action?ope=4&cid=12688\">SPYRAL－ダンディ</a>」として扱う』モンスター効果によって、カード名が「<a href=\"faq_search.action?ope=4&cid=12688\">SPYRAL－ダンディ</a>」として扱われていますので、「<a href=\"faq_search.action?ope=4&cid=12877\">SPYGAL－ミスティ</a>」のモンスター効果で持ち主の手札に戻す対象として、「<a href=\"faq_search.action?ope=4&cid=13371\">SPYRAL－ザ・ダブルヘリックス</a>」を選択する事はできます。\n\nその場合、対象となった「<a href=\"faq_search.action?ope=4&cid=13371\">SPYRAL－ザ・ダブルヘリックス</a>」は手札ではなく、持ち主のエクストラデッキに戻しますが、もう1体の対象である相手フィールドのモンスターは通常通り持ち主の手札に戻ります。",
-  "date": "2017-09-08"
+  "date": "2022-12-30"
 }

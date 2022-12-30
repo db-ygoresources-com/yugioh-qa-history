@@ -3,5 +3,5 @@
   "title": "「E・HERO グランドマン」のモンスター効果によって特殊召喚されたモンスターが攻撃を行う際に、相手のモンスターのレベルが下がった場合、その攻撃はどうなりますか？",
   "question": "「<a href=\"faq_search.action?ope=4&cid=14216\">E・HERO グランドマン</a>」の『②：このカードが戦闘で相手モンスターを破壊した時、このカードをリリースして発動できる。EXデッキから「E・HERO」融合モンスター１体を召喚条件を無視して特殊召喚する。この効果で特殊召喚したモンスターは自身のレベル以下のレベルを持つモンスターを攻撃できない』モンスター効果によって「<a href=\"faq_search.action?ope=4&cid=13867\">E・HERO ネビュラ・ネオス</a>」が特殊召喚されています。\n\nその「<a href=\"faq_search.action?ope=4&cid=13867\">E・HERO ネビュラ・ネオス</a>」で相手の「<a href=\"faq_search.action?ope=4&cid=6397\">サイバー・エンド・ドラゴン</a>」を攻撃した際に、相手が「<a href=\"faq_search.action?ope=4&cid=9676\">スター・チェンジャー</a>」を発動し、「<a href=\"faq_search.action?ope=4&cid=6397\">サイバー・エンド・ドラゴン</a>」のレベルを1つ下げた場合、その攻撃はどうなりますか？",
   "answer": "質問の状況の場合、「<a href=\"faq_search.action?ope=4&cid=14216\">E・HERO グランドマン</a>」のモンスター効果によって特殊召喚されている「<a href=\"faq_search.action?ope=4&cid=13867\">E・HERO ネビュラ・ネオス</a>」は自身のレベル（＝レベル9）以下のモンスターを攻撃する事はできません。\n\n「<a href=\"faq_search.action?ope=4&cid=6397\">サイバー・エンド・ドラゴン</a>」はレベルが10のモンスターですが、「<a href=\"faq_search.action?ope=4&cid=9676\">スター・チェンジャー</a>」の効果が適用されレベルが1つ下がった事でレベルが9となりますので、その「<a href=\"faq_search.action?ope=4&cid=13867\">E・HERO ネビュラ・ネオス</a>」で攻撃を行う事はできず、戦闘の巻き戻しが発生します。",
-  "date": "2018-12-24"
+  "date": "2022-12-30"
 }

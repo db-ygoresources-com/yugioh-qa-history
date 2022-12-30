@@ -3,5 +3,5 @@
   "title": "「D-HERO ダイヤモンドガイ」の『①』のモンスター効果で墓地へ送られた「次元融合殺」の効果を発動できますか？",
   "question": "「<a href=\"faq_search.action?ope=4&cid=6660\">D-HERO ダイヤモンドガイ</a>」の『①』のモンスター効果によって、デッキの一番上の「<a href=\"faq_search.action?ope=4&cid=15144\">次元融合殺</a>」が墓地へ送られた場合、次の自分のターンのメインフェイズに、墓地の「<a href=\"faq_search.action?ope=4&cid=15144\">次元融合殺</a>」の効果を発動する事はできますか？",
   "answer": "「<a href=\"faq_search.action?ope=4&cid=6660\">D-HERO ダイヤモンドガイ</a>」の『①』のモンスター効果で墓地へ送られた「<a href=\"faq_search.action?ope=4&cid=15144\">次元融合殺</a>」の効果を発動する事はできます。\n決められたモンスターを除外し、エクストラデッキから特殊召喚を行う処理も通常通り適用され、『この効果で特殊召喚したモンスターの戦闘で発生する自分への戦闘ダメージは０になる』効果も適用されます。\n\nただし、「<a href=\"faq_search.action?ope=4&cid=6660\">D-HERO ダイヤモンドガイ</a>」の『①』のモンスター効果で墓地へ送られた「<a href=\"faq_search.action?ope=4&cid=15144\">次元融合殺</a>」の効果を発動した場合には、『自分フィールドに「<a href=\"faq_search.action?ope=4&cid=6563\">神炎皇ウリア</a>」「<a href=\"faq_search.action?ope=4&cid=6564\">降雷皇ハモン</a>」「<a href=\"faq_search.action?ope=4&cid=6565\">幻魔皇ラビエル</a>」のいずれかが存在する場合、このカードの発動に対して相手は効果を発動できない』は適用されません。",
-  "date": "2020-03-22"
+  "date": "2022-12-30"
 }

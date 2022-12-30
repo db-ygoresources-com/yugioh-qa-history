@@ -3,5 +3,5 @@
   "title": "攻撃宣言時に発動した「「RESORT」 STAFF－チャーミング」のモンスター効果の処理時に、そのモンスターの攻撃が無効になっている場合、処理はどうなりますか？",
   "question": "自分の「<a href=\"faq_search.action?ope=4&cid=12688\">SPYRAL－ダンディ</a>」が相手の表側表示モンスターを攻撃した攻撃宣言時、または、「<a href=\"faq_search.action?ope=4&cid=12688\">SPYRAL－ダンディ</a>」を攻撃対象とする相手の表側表示モンスターの攻撃宣言時に、「<a href=\"faq_search.action?ope=4&cid=12824\">「RESORT」 STAFF－チャーミング</a>」の『①：自分の「<a href=\"faq_search.action?ope=4&cid=12688\">SPYRAL－ダンディ</a>」が相手の表側表示モンスターと戦闘を行う攻撃宣言時に発動できる。その相手モンスターの攻撃力を０にする』モンスター効果を発動しました。\n\nその発動にチェーンして「<a href=\"faq_search.action?ope=4&cid=5124\">魔法の筒</a>」が発動し、「<a href=\"faq_search.action?ope=4&cid=12824\">「RESORT」 STAFF－チャーミング</a>」の『その相手モンスターの攻撃力を０にする』モンスター効果の処理時に、攻撃モンスターの攻撃が無効になっている場合、処理はどうなりますか？",
   "answer": "攻撃宣言時に発動した「<a href=\"faq_search.action?ope=4&cid=12824\">「RESORT」 STAFF－チャーミング</a>」のモンスター効果の処理時に、その発動のきっかけとなったモンスターの攻撃宣言がチェーンして発動した「<a href=\"faq_search.action?ope=4&cid=5124\">魔法の筒</a>」の効果によって無効になっている場合でも、『その相手モンスターの攻撃力を０にする』処理は通常通り適用されます。",
-  "date": "2017-09-08"
+  "date": "2022-12-30"
 }

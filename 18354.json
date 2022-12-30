@@ -3,5 +3,5 @@
   "title": "「RUM－七皇の剣」の発動にチェーンして「アーティファクト－デュランダル」の効果を発動した場合、その後のデュエル中に二枚目の「RUM－七皇の剣」を発動できますか？",
   "question": "自分が「<a href=\"faq_search.action?ope=4&cid=11087\">RUM－七皇の剣</a>」を発動した時、チェーンして相手が「<a href=\"faq_search.action?ope=4&cid=11078\">アーティファクト－デュランダル</a>」の効果を発動しました。その効果により、「<a href=\"faq_search.action?ope=4&cid=11087\">RUM－七皇の剣</a>」の効果処理時には『相手フィールドの魔法・罠カード１枚を選んで破壊する』処理を行いました。\n\n「<a href=\"faq_search.action?ope=4&cid=11087\">RUM－七皇の剣</a>」はカードテキストにより、効果をデュエル中に１度しか適用できませんが、それ以降のデュエル中、自分は別の「<a href=\"faq_search.action?ope=4&cid=11087\">RUM－七皇の剣</a>」を発動できますか？",
   "answer": "発動できます。\n\n「<a href=\"faq_search.action?ope=4&cid=11087\">RUM－七皇の剣</a>」はカードテキストにより、「<a href=\"faq_search.action?ope=4&cid=11087\">RUM－七皇の剣</a>」に記載された効果をデュエル中に１度しか適用できません。\n\n上記の場合、「<a href=\"faq_search.action?ope=4&cid=11078\">アーティファクト－デュランダル</a>」の効果が適用されたことにより、「<a href=\"faq_search.action?ope=4&cid=11087\">RUM－七皇の剣</a>」のカードテキストに記載された効果は適用されていません。そのため、自分は別の「<a href=\"faq_search.action?ope=4&cid=11087\">RUM－七皇の剣</a>」を発動できます。",
-  "date": "2022-03-05"
+  "date": "2022-12-30"
 }

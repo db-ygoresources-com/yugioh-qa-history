@@ -3,5 +3,5 @@
   "title": "手札の「青眼の亜白龍」の特殊召喚に成功したターンに、「青き眼の激臨」を発動できますか？",
   "question": "自分が『手札の「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」１体を相手に見せた場合に特殊召喚できる』方法によって、「<a href=\"faq_search.action?ope=4&cid=12253\">青眼の亜白龍</a>」の特殊召喚に成功しているターンです。\n\nこのターンに、自分は「<a href=\"faq_search.action?ope=4&cid=13845\">青き眼の激臨</a>」の『①：このカードを含む、自分の手札・フィールド・墓地のカードを全て裏側表示で除外し、デッキから「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」を３体まで特殊召喚する』効果を発動する事はできますか？",
   "answer": "自分が「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」以外のモンスターの召喚・特殊召喚を行っているターンには、自分は「<a href=\"faq_search.action?ope=4&cid=13845\">青き眼の激臨</a>」を発動する事はできません。\n\n「<a href=\"faq_search.action?ope=4&cid=12253\">青眼の亜白龍</a>」は『①：このカードのカード名は、フィールド・墓地に存在する限り「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」として扱う』モンスター効果によって、フィールドでは「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」として扱われますので、結果的に「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」が特殊召喚に成功している扱いとなります。\n\nしたがって、「<a href=\"faq_search.action?ope=4&cid=12253\">青眼の亜白龍</a>」の特殊召喚に成功しているターンに、自分は「<a href=\"faq_search.action?ope=4&cid=13845\">青き眼の激臨</a>」を発動する事ができます。",
-  "date": "2018-06-08"
+  "date": "2022-12-30"
 }

@@ -3,5 +3,5 @@
   "title": "「Sin Tune」と「Sin」と名のついたモンスターが同時に破壊され墓地へ送られた場合、墓地に送られた「Sin Tune」の効果を発動できますか？",
   "question": "相手の発動した「<a href=\"faq_search.action?ope=4&cid=6709\">ゴッドバードアタック</a>」の効果によって、自分の魔法＆罠ゾーンにセットされた「<a href=\"faq_search.action?ope=4&cid=14373\">Sin Tune</a>」と、自分モンスターゾーンに表側表示で存在する「<a href=\"faq_search.action?ope=4&cid=9043\">Sin パラレルギア</a>」が破壊され墓地へ送られました。\n\nこの時、自分は、墓地へ送られたその「<a href=\"faq_search.action?ope=4&cid=14373\">Sin Tune</a>」の『②：このカードが墓地に存在する状態で、自分フィールドの表側表示の「Sin」モンスターが戦闘以外で破壊された場合、墓地のこのカードを除外して発動できる。デッキから「Sin」モンスター１体を手札に加える』効果を発動する事はできますか？",
   "answer": "「<a href=\"faq_search.action?ope=4&cid=14373\">Sin Tune</a>」の『デッキから「Sin」モンスター１体を手札に加える』効果は、「<a href=\"faq_search.action?ope=4&cid=14373\">Sin Tune</a>」が墓地に存在する状態で、自分のモンスターゾーンに表側表示で存在する「Sin」と名のついたモンスターが戦闘以外で破壊されている場合にのみ発動する事ができます。\n\n質問の状況のように、「Sin」と名のついたモンスターと「<a href=\"faq_search.action?ope=4&cid=14373\">Sin Tune</a>」が同時に破壊され墓地へ送られるような場合には、その破壊され墓地へ送られた「<a href=\"faq_search.action?ope=4&cid=14373\">Sin Tune</a>」の『デッキから「Sin」モンスター１体を手札に加える』効果を発動する事はできません。",
-  "date": "2019-02-08"
+  "date": "2022-12-30"
 }

@@ -3,5 +3,5 @@
   "title": "「アームド・ドラゴン・サンダー LV５」を対象に「武装竜の襲雷」を発動した場合、どのような処理を行いますか？",
   "question": "自分フィールドの「<a href=\"faq_search.action?ope=4&cid=15694\">アームド・ドラゴン・サンダー LV５</a>」を対象に「<a href=\"faq_search.action?ope=4&cid=15743\">武装竜の襲雷</a>」を発動した場合、『その同名モンスター１体を自分のデッキ・墓地から選び、手札に加えるか召喚条件を無視して特殊召喚する』処理でどのモンスターを選べますか？",
   "answer": "「<a href=\"faq_search.action?ope=4&cid=15694\">アームド・ドラゴン・サンダー LV５</a>」は自身の『①』の効果により、フィールド・墓地に存在する限りカード名を「<a href=\"faq_search.action?ope=4&cid=6106\">アームド・ドラゴン LV５</a>」として扱います。\n\nご質問の状況ですと、『その同名モンスター』は「<a href=\"faq_search.action?ope=4&cid=6106\">アームド・ドラゴン LV５</a>」を指します。したがって、「<a href=\"faq_search.action?ope=4&cid=15743\">武装竜の襲雷</a>」の処理で選べるのは以下のモンスターです。\n\n・自分のデッキの「<a href=\"faq_search.action?ope=4&cid=6106\">アームド・ドラゴン LV５</a>」\n・自分の墓地の「<a href=\"faq_search.action?ope=4&cid=6106\">アームド・ドラゴン LV５</a>」\n・自身の『①』の効果で「<a href=\"faq_search.action?ope=4&cid=6106\">アームド・ドラゴン LV５</a>」として扱われている、自分の墓地の「<a href=\"faq_search.action?ope=4&cid=15694\">アームド・ドラゴン・サンダー LV５</a>」",
-  "date": "2020-10-30"
+  "date": "2022-12-30"
 }
