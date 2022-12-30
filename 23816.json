@@ -3,5 +3,5 @@
   "title": "「マクロコスモス」の適用中に、コストとしてモンスターをリリースし、効果を発動できますか？",
   "question": "「<a href=\"faq_search.action?ope=4&cid=6682\">マクロコスモス</a>」などが持つ『墓地へ送られるカードは墓地へは行かず除外される』効果が適用されている状況で、「<a href=\"faq_search.action?ope=4&cid=11927\">ラーの翼神竜－球体形</a>」の②の『このカードをリリースして発動できる。手札・デッキから「<a href=\"faq_search.action?ope=4&cid=5000\">ラーの翼神竜</a>」１体を、召喚条件を無視し、攻撃力・守備力を４０００にして特殊召喚する』効果を発動できますか？",
   "answer": "できます。\n\nリリースされた「<a href=\"faq_search.action?ope=4&cid=11927\">ラーの翼神竜－球体形</a>」は結果的に「<a href=\"faq_search.action?ope=4&cid=6682\">マクロコスモス</a>」の効果によって墓地へ送られずに除外されますが、通常通り効果の処理を行い、「<a href=\"faq_search.action?ope=4&cid=5000\">ラーの翼神竜</a>」が特殊召喚されます。\n\nなお、「<a href=\"faq_search.action?ope=4&cid=11927\">ラーの翼神竜－球体形</a>」ではなく、以下のカードの効果を発動する場合でも同様です。\n「<a href=\"faq_search.action?ope=4&cid=11527\">超重武者カゲボウ－C</a>」の①\n「<a href=\"faq_search.action?ope=4&cid=11601\">宝玉の先導者</a>」の①\n「<a href=\"faq_search.action?ope=4&cid=5636\">ジュラゲド</a>」の②\n「<a href=\"faq_search.action?ope=4&cid=12361\">巨竜の聖騎士</a>」の③\n「<a href=\"faq_search.action?ope=4&cid=11628\">ジェット・ウォリアー</a>」の②",
-  "date": "2022-07-27"
+  "date": "2022-12-30"
 }
