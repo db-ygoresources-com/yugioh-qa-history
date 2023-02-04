@@ -1,7 +1,0 @@
-{
-  "fid": 16654,
-  "title": "バトルフェイズに「リチュアに伝わりし禁断の秘術」を除外して「緊急儀式術」を発動できますか？",
-  "question": "バトルフェイズに「<a href=\"faq_search.action?ope=4&cid=9398\">リチュアに伝わりし禁断の秘術</a>」を除外して「<a href=\"faq_search.action?ope=4&cid=12021\">緊急儀式術</a>」を発動する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=9398\">リチュアに伝わりし禁断の秘術</a>」のカードを発動を行うターンに、自分はバトルフェイズを行う事ができません。\n\n「<a href=\"faq_search.action?ope=4&cid=12021\">緊急儀式術</a>」の『このカードの効果は、その儀式魔法カード発動時の儀式召喚する効果と同じになる』効果で「<a href=\"faq_search.action?ope=4&cid=9398\">リチュアに伝わりし禁断の秘術</a>」を適用する場合も同様ですので、自分のバトルフェイズに自分が「<a href=\"faq_search.action?ope=4&cid=12021\">緊急儀式術</a>」の効果を発動する場合、コストとして、「<a href=\"faq_search.action?ope=4&cid=9398\">リチュアに伝わりし禁断の秘術</a>」を除外する事はできません。\n\n（相手のバトルフェイズに自分が「<a href=\"faq_search.action?ope=4&cid=12021\">緊急儀式術</a>」の効果を発動する場合であれば、コストとして、「<a href=\"faq_search.action?ope=4&cid=9398\">リチュアに伝わりし禁断の秘術</a>」を除外する事ができます。）",
-  "date": "2020-02-24"
-}
