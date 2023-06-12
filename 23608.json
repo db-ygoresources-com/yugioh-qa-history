@@ -1,7 +1,7 @@
 {
   "fid": 23608,
-  "title": "「くず鉄のかかし」の処理を「闇よりの罠」「ラビュリンス・バラージュ」の処理として適用できますか？",
-  "question": "『発動後このカードは墓地へ送らず、そのままセットする』効果を持つ「<a href=\"faq_search.action?ope=4&cid=7694\">くず鉄のかかし</a>」などの通常罠カードを対象として「<a href=\"faq_search.action?ope=4&cid=6453\">闇よりの罠</a>」を発動できますか？\n\nまた、「<a href=\"faq_search.action?ope=4&cid=7694\">くず鉄のかかし</a>」などの通常罠カードの発動にチェーンして「<a href=\"faq_search.action?ope=4&cid=17371\">ラビュリンス・バラージュ</a>」を発動できますか？",
-  "answer": "できます。\n\nその場合でも、「<a href=\"faq_search.action?ope=4&cid=6453\">闇よりの罠</a>」「<a href=\"faq_search.action?ope=4&cid=17371\">ラビュリンス・バラージュ</a>」は発動後に魔法＆罠ゾーンにセットされます。",
-  "date": "2022-12-30"
+  "title": "『発動後このカードは墓地へ送らず、そのままセットする』処理を、『この効果は、その通常罠カード発動時の効果と同じになる』処理として適用できますか？",
+  "question": "『発動後このカードは墓地へ送らず、そのままセットする』効果を持つ「<a href=\"faq_search.action?ope=4&cid=7694\">くず鉄のかかし</a>」を対象として「<a href=\"faq_search.action?ope=4&cid=6453\">闇よりの罠</a>」「<a href=\"faq_search.action?ope=4&cid=8222\">フェイク・フェザー</a>」「<a href=\"faq_search.action?ope=4&cid=19049\">トランザクション・ロールバック</a>」を発動したり、「<a href=\"faq_search.action?ope=4&cid=7694\">くず鉄のかかし</a>」の発動にチェーンして「<a href=\"faq_search.action?ope=4&cid=17371\">ラビュリンス・バラージュ</a>」を発動できますか？\n\nまた、「<a href=\"faq_search.action?ope=4&cid=7694\">くず鉄のかかし</a>」を対象として「<a href=\"faq_search.action?ope=4&cid=19049\">トランザクション・ロールバック</a>」の②の効果を発動することや、「<a href=\"faq_search.action?ope=4&cid=7694\">くず鉄のかかし</a>」を除外して「<a href=\"faq_search.action?ope=4&cid=8606\">ジャンク・コレクター</a>」の効果を発動することはできますか？",
+  "answer": "発動できます。\nその場合「<a href=\"faq_search.action?ope=4&cid=6453\">闇よりの罠</a>」「<a href=\"faq_search.action?ope=4&cid=8222\">フェイク・フェザー</a>」「<a href=\"faq_search.action?ope=4&cid=17371\">ラビュリンス・バラージュ</a>」「<a href=\"faq_search.action?ope=4&cid=19049\">トランザクション・ロールバック</a>」は発動後に魔法＆罠ゾーンにセットされます。\n\nただし、「<a href=\"faq_search.action?ope=4&cid=7694\">くず鉄のかかし</a>」を対象として「<a href=\"faq_search.action?ope=4&cid=19049\">トランザクション・ロールバック</a>」の②の効果を発動することや、「<a href=\"faq_search.action?ope=4&cid=7694\">くず鉄のかかし</a>」を除外して「<a href=\"faq_search.action?ope=4&cid=8606\">ジャンク・コレクター</a>」の効果を発動することはできません。",
+  "date": "2023-06-12"
 }
