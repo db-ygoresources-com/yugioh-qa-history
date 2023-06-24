@@ -1,7 +1,0 @@
-{
-  "fid": 17905,
-  "title": "対象のモンスターに「禁じられた聖槍」が適用される場合、「レッド・スプレマシー」の効果はどうなりますか？",
-  "question": "自分の墓地の「<a href=\"faq_search.action?ope=4&cid=12078\">琰魔竜 レッド・デーモン・アビス</a>」を除外し、自分のモンスターゾーンの「<a href=\"faq_search.action?ope=4&cid=12079\">琰魔竜 レッド・デーモン・ベリアル</a>」を対象として、「<a href=\"faq_search.action?ope=4&cid=12272\">レッド・スプレマシー</a>」を発動しました。\n\nその発動にチェーンして「<a href=\"faq_search.action?ope=4&cid=9352\">禁じられた聖槍</a>」が発動し、「<a href=\"faq_search.action?ope=4&cid=12079\">琰魔竜 レッド・デーモン・ベリアル</a>」が罠カードの効果を受けなくなった場合、「<a href=\"faq_search.action?ope=4&cid=12272\">レッド・スプレマシー</a>」の効果処理はどうなりますか？",
-  "answer": "質問の状況の場合、対象の「<a href=\"faq_search.action?ope=4&cid=12079\">琰魔竜 レッド・デーモン・ベリアル</a>」が罠カードの効果を受けませんので、「<a href=\"faq_search.action?ope=4&cid=12272\">レッド・スプレマシー</a>」の効果は適用されません。",
-  "date": "2017-03-24"
-}
