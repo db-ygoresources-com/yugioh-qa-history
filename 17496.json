@@ -1,7 +1,0 @@
-{
-  "fid": 17496,
-  "title": "「破戒蛮竜－バスター・ドラゴン」の「バスター・ブレイダー」を特殊召喚する効果の処理時に、「リビングデッドの呼び声」の効果で「破壊剣の使い手－バスター・ブレイダー」が特殊召喚されている場合、処理はどうなりますか？",
-  "question": "自分の墓地に「<a href=\"faq_search.action?ope=4&cid=4983\">バスター・ブレイダー</a>」と「<a href=\"faq_search.action?ope=4&cid=12126\">破壊剣の使い手－バスター・ブレイダー</a>」が1体ずつ存在し、自分のモンスターゾーンには「<a href=\"faq_search.action?ope=4&cid=12160\">破戒蛮竜－バスター・ドラゴン</a>」のみが存在しています。\n\nこの状況で、「<a href=\"faq_search.action?ope=4&cid=4983\">バスター・ブレイダー</a>」を対象として「<a href=\"faq_search.action?ope=4&cid=12160\">破戒蛮竜－バスター・ドラゴン</a>」の『②：自分フィールドに「<a href=\"faq_search.action?ope=4&cid=4983\">バスター・ブレイダー</a>」モンスターが存在しない場合、１ターンに１度、自分の墓地の「<a href=\"faq_search.action?ope=4&cid=4983\">バスター・ブレイダー</a>」１体を対象として発動できる。そのモンスターを特殊召喚する』効果を発動し、さらにチェーンして発動した「<a href=\"faq_search.action?ope=4&cid=4989\">リビングデッドの呼び声</a>」の効果によって、墓地の「<a href=\"faq_search.action?ope=4&cid=12126\">破壊剣の使い手－バスター・ブレイダー</a>」を特殊召喚した場合、「<a href=\"faq_search.action?ope=4&cid=12160\">破戒蛮竜－バスター・ドラゴン</a>」の効果処理はどうなりますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=12160\">破戒蛮竜－バスター・ドラゴン</a>」の「<a href=\"faq_search.action?ope=4&cid=4983\">バスター・ブレイダー</a>」を特殊召喚する効果の処理時に、自分のモンスターゾーンに「<a href=\"faq_search.action?ope=4&cid=12126\">破壊剣の使い手－バスター・ブレイダー</a>」が存在する場合でも、効果処理は通常通り適用され、対象の「<a href=\"faq_search.action?ope=4&cid=4983\">バスター・ブレイダー</a>」を墓地から特殊召喚します。",
-  "date": "2017-03-24"
-}
