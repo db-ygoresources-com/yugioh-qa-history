@@ -1,7 +1,0 @@
-{
-  "fid": 10208,
-  "title": "「フォーミュラ・シンクロン」の効果を、同一チェーン上で複数回発動できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=9118\">フォーミュラ・シンクロン</a>」の効果を、同一チェーン上にて複数回発動する事はできますか？\n例）\n「<a href=\"faq_search.action?ope=4&cid=9118\">フォーミュラ・シンクロン</a>」の誘発即時効果を発動した時に、チェーンをして相手が「<a href=\"faq_search.action?ope=4&cid=5544\">サンダー・ブレイク</a>」を発動しました。\nこの場合、さらに「<a href=\"faq_search.action?ope=4&cid=9118\">フォーミュラ・シンクロン</a>」の効果を発動する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=9118\">フォーミュラ・シンクロン</a>」の効果を、同一チェーン上にて複数回発動する事はできません。\nしたがって、例の場合においても、「<a href=\"faq_search.action?ope=4&cid=5544\">サンダー・ブレイク</a>」の発動にチェーンをして、「<a href=\"faq_search.action?ope=4&cid=9118\">フォーミュラ・シンクロン</a>」の効果を発動する事はできません。",
-  "date": "2017-03-24"
-}

@@ -1,0 +1,7 @@
+{
+  "fid": 23998,
+  "title": "手札の「VS」モンスターの効果を発動した場合、一連のチェーン処理後に「VS 蛟龍」の効果を発動できますか？",
+  "question": "自分が手札の「<a href=\"faq_search.action?ope=4&cid=18729\">VS ヘヴィ・ボーガー</a>」「<a href=\"faq_search.action?ope=4&cid=18732\">VS 龍帝ヴァリウス</a>」「<a href=\"faq_search.action?ope=4&cid=18728\">VS パンテラ</a>」「<a href=\"faq_search.action?ope=4&cid=18731\">VS プルトンHG</a>」の効果（手札から自身を特殊召喚する効果）を発動した場合、一連のチェーン処理後に「<a href=\"faq_search.action?ope=4&cid=19160\">VS 蛟龍</a>」の『①：自分が「VS」カードの効果を発動するために手札を見せた場合に発動できる。このカードを手札から特殊召喚する』効果を発動できますか？",
+  "answer": "いずれの場合も発動できません。\n\n「<a href=\"faq_search.action?ope=4&cid=19160\">VS 蛟龍</a>」の①の効果は、自分が「VS」カードの効果を発動するコストとして自分の手札を見せた場合に発動できます。コストとして手札を見せる効果とは、テキストに『見せて発動できる』と記載されている効果のことです。手札で発動できる「<a href=\"faq_search.action?ope=4&cid=18729\">VS ヘヴィ・ボーガー</a>」「<a href=\"faq_search.action?ope=4&cid=18732\">VS 龍帝ヴァリウス</a>」「<a href=\"faq_search.action?ope=4&cid=18728\">VS パンテラ</a>」「<a href=\"faq_search.action?ope=4&cid=18731\">VS プルトンHG</a>」の効果はこれに該当しません。\n\n（テキストによらず、手札のカードの効果を発動する際には発動の宣言のために手札を見せますが、テキストに『見せて発動できる』と記載された効果なのであればコストとして見せたことになり、そうでないのであればコストとして見せたことになりません。）",
+  "date": "2023-07-29"
+}
