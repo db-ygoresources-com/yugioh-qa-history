@@ -1,7 +1,0 @@
-{
-  "fid": 8631,
-  "title": "「炎王炎環」の処理時に、対象のフィールドのモンスターが炎属性でなくなった場合、処理はどうなりますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=10349\">炎王炎環</a>」を発動し、モンスターゾーンに表側表示で存在する「<a href=\"faq_search.action?ope=4&cid=10346\">炎王獣 バロン</a>」と、墓地の「<a href=\"faq_search.action?ope=4&cid=10345\">炎王神獣 ガルドニクス</a>」を対象としました。\n\nその「<a href=\"faq_search.action?ope=4&cid=10349\">炎王炎環</a>」の発動にチェーンして「<a href=\"faq_search.action?ope=4&cid=5919\">DNA移植手術</a>」が発動し、水属性が宣言された場合、「<a href=\"faq_search.action?ope=4&cid=10349\">炎王炎環</a>」の処理はどうなりますか？",
-  "answer": "効果処理時に、「<a href=\"faq_search.action?ope=4&cid=10349\">炎王炎環</a>」の対象となったフィールドのモンスターの属性が炎属性以外になっている場合でも、『選択した自分フィールド上のモンスターを破壊し、選択した墓地のモンスターを特殊召喚する』効果処理は通常通り適用されます。",
-  "date": "2017-03-24"
-}
