@@ -1,7 +1,7 @@
 {
   "fid": 13926,
-  "title": "ペンデュラム召喚によって、2体の「霊獣使いの長老」を同時に特殊召喚できますか？",
+  "title": "ペンデュラム召喚によって、２体の「霊獣使いの長老」を同時に特殊召喚できますか？",
   "question": "ペンデュラム召喚によって、2体の「<a href=\"faq_search.action?ope=4&cid=11493\">霊獣使いの長老</a>」を同時に特殊召喚する事はできますか？",
-  "answer": "自分は「<a href=\"faq_search.action?ope=4&cid=11493\">霊獣使いの長老</a>」を、１ターンに１度しか特殊召喚する事ができません。\n\nペンデュラム召喚は１度に複数体のモンスターを同時に特殊召喚する事もできますので、１度のペンデュラム召喚にて特殊召喚するのであれば、「<a href=\"faq_search.action?ope=4&cid=11493\">霊獣使いの長老</a>」を２体以上同時に特殊召喚する事はできます。",
-  "date": "2017-03-24"
+  "answer": "自分は「<a href=\"faq_search.action?ope=4&cid=11493\">霊獣使いの長老</a>」を、１ターンに１度しか特殊召喚できません。\n\nペンデュラム召喚は１度に複数体のモンスターを同時に特殊召喚できますので、１度のペンデュラム召喚にて特殊召喚するのであれば、「<a href=\"faq_search.action?ope=4&cid=11493\">霊獣使いの長老</a>」を２体以上同時に特殊召喚できます。\n\n以下のモンスターについても同様です。\n「<a href=\"faq_search.action?ope=4&cid=12761\">精霊獣使い ウィンダ</a>」\n「<a href=\"faq_search.action?ope=4&cid=11703\">英霊獣使い－セフィラムピリカ</a>」\n「<a href=\"faq_search.action?ope=4&cid=11704\">影霊獣使い－セフィラウェンディ</a>」\n「<a href=\"faq_search.action?ope=4&cid=11549\">精霊獣 ラムペンタ</a>」\n「<a href=\"faq_search.action?ope=4&cid=11492\">霊獣使い レラ</a>」\n「<a href=\"faq_search.action?ope=4&cid=11494\">霊獣使い ウェン</a>」\n「<a href=\"faq_search.action?ope=4&cid=11496\">精霊獣 ペトルフィン</a>」\n「<a href=\"faq_search.action?ope=4&cid=11495\">精霊獣 アペライオ</a>」",
+  "date": "2023-11-09"
 }
