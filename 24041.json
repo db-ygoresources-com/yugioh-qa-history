@@ -1,0 +1,7 @@
+{
+  "fid": 24041,
+  "title": "「ナイトメア・ペイン」の①の効果で「ユベル」を破壊した場合、「ユベル－Das Abscheulich Ritter」を特殊召喚する効果を発動できますか？",
+  "question": "「<a href=\"faq_search.action?ope=4&cid=19509\">ナイトメア・ペイン</a>」の『①：自分メインフェイズに発動できる。自分の手札・フィールド（表側表示）の闇属性モンスター１体を破壊し、「<a href=\"faq_search.action?ope=4&cid=19509\">ナイトメア・ペイン</a>」を除く、「<a href=\"faq_search.action?ope=4&cid=7409\">ユベル</a>」１体またはそのカード名が記されたカード１枚をデッキから手札に加える』効果によって、「<a href=\"faq_search.action?ope=4&cid=7409\">ユベル</a>」を破壊しました。\n\n一連のチェーン処理後に「<a href=\"faq_search.action?ope=4&cid=7409\">ユベル</a>」の『④：この③の効果以外でこのカードが破壊された時に発動できる。自分の手札・デッキ・墓地から「<a href=\"faq_search.action?ope=4&cid=7410\">ユベル－Das Abscheulich Ritter</a>」１体を特殊召喚する』効果を発動できますか？",
+  "answer": "発動できます。\n\n「<a href=\"faq_search.action?ope=4&cid=19509\">ナイトメア・ペイン</a>」の①の『自分の手札・フィールド（表側表示）の闇属性モンスター１体を破壊』する処理と、『「<a href=\"faq_search.action?ope=4&cid=7409\">ユベル</a>」１体またはそのカード名が記されたカード１枚をデッキから手札に加える』処理は同時に行われたものとして扱われます。\n\nしたがって、「<a href=\"faq_search.action?ope=4&cid=7409\">ユベル</a>」が破壊されてから何も処理が行われていない扱いですので、一連のチェーン処理後に「<a href=\"faq_search.action?ope=4&cid=7409\">ユベル</a>」の④の効果を発動できます。",
+  "date": "2024-01-11"
+}

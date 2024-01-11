@@ -1,0 +1,7 @@
+{
+  "fid": 24040,
+  "title": "相手の「賜炎の咎姫」の③の効果で破壊され墓地へ送られた自分の「賜炎の咎姫」は、その処理後に③の効果を発動できますか？",
+  "question": "相手の「<a href=\"faq_search.action?ope=4&cid=19507\">賜炎の咎姫</a>」の③の効果によって自分フィールドの「<a href=\"faq_search.action?ope=4&cid=19507\">賜炎の咎姫</a>」が破壊され墓地へ送られ、相手フィールドに「<a href=\"faq_search.action?ope=4&cid=19507\">賜炎の咎姫</a>」が特殊召喚されました。この一連のチェーン処理後に、自分はその破壊された「<a href=\"faq_search.action?ope=4&cid=19507\">賜炎の咎姫</a>」の③の効果を発動できますか？",
+  "answer": "発動できません。\n\n「<a href=\"faq_search.action?ope=4&cid=19507\">賜炎の咎姫</a>」の③の効果を発動するためには、相手フィールドにモンスターが特殊召喚された時点で、既にその「<a href=\"faq_search.action?ope=4&cid=19507\">賜炎の咎姫</a>」が墓地に存在する必要があります。「<a href=\"faq_search.action?ope=4&cid=19507\">賜炎の咎姫</a>」の③の効果による破壊と特殊召喚は同時に行われる扱いですので、相手の「<a href=\"faq_search.action?ope=4&cid=19507\">賜炎の咎姫</a>」が特殊召喚された時点では、自分の「<a href=\"faq_search.action?ope=4&cid=19507\">賜炎の咎姫</a>」は墓地に存在せず、発動の条件を満たしていません。",
+  "date": "2024-01-11"
+}
