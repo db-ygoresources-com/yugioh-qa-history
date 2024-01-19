@@ -1,7 +1,0 @@
-{
-  "fid": 14815,
-  "title": "「永遠の魂」の適用中、「ブラック・マジシャン」はどちらのプレイヤーの効果を受けなくなりますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=11672\">永遠の魂</a>」の『②：このカードが魔法＆罠ゾーンに存在する限り、自分のモンスターゾーンの「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」は相手の効果を受けない』効果の適用中に、「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」のコントロールが「<a href=\"faq_search.action?ope=4&cid=5162\">強制転移</a>」によって、移った場合、どちらのプレイヤーの効果を受けなくなりますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=11672\">永遠の魂</a>」の『②：このカードが魔法＆罠ゾーンに存在する限り、自分のモンスターゾーンの「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」は相手の効果を受けない』効果は、「<a href=\"faq_search.action?ope=4&cid=11672\">永遠の魂</a>」が発動した際に、自分のモンスターゾーンに存在していた「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」にのみ適用される効果ではありません。（後から自分フィールドに召喚等された「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」にも効果は適用されます）\n\nまた、召喚された後に自分の発動した「<a href=\"faq_search.action?ope=4&cid=5162\">強制転移</a>」によって「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」のコントロールが相手に移った場合には、その「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」は「<a href=\"faq_search.action?ope=4&cid=11672\">永遠の魂</a>」の効果を受けていない状態に戻ります。\n\n「<a href=\"faq_search.action?ope=4&cid=11672\">永遠の魂</a>」の効果は、「<a href=\"faq_search.action?ope=4&cid=4041\">ブラック・マジシャン</a>」が自分のモンスターゾーンに表側表示で存在する間のみ適用される効果で、「<a href=\"faq_search.action?ope=4&cid=11672\">永遠の魂</a>」のコントローラーから見て、相手となるプレイヤーのカードの効果を受けません。",
-  "date": "2017-03-24"
-}
