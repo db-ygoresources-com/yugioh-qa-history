@@ -1,7 +1,7 @@
 {
   "fid": 23092,
   "title": "「混沌の創世神」の効果を得た「ファントム・オブ・カオス」は、効果を発動できますか？",
-  "question": "手札から特殊召喚された「<a href=\"faq_search.action?ope=4&cid=7351\">ファントム・オブ・カオス</a>」が「<a href=\"faq_search.action?ope=4&cid=15475\">混沌の創世神</a>」の効果を得た場合、効果を発動できますか？",
-  "answer": "できません。",
-  "date": "2022-12-30"
+  "question": "手札から特殊召喚された「<a href=\"faq_search.action?ope=4&cid=7351\">ファントム・オブ・カオス</a>」や、手札から特殊召喚された「<a href=\"faq_search.action?ope=4&cid=6772\">N・ブラック・パンサー</a>」が「<a href=\"faq_search.action?ope=4&cid=15475\">混沌の創世神</a>」の効果を得た場合、効果を発動できますか？",
+  "answer": "発動できます。",
+  "date": "2024-01-25"
 }
