@@ -1,7 +1,0 @@
-{
-  "fid": 7635,
-  "title": "「緊急同調」でシンクロ召喚を行う場合、そのシンクロ召喚を「神の宣告」の効果によって無効にできますか?",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=7920\">緊急同調</a>」を発動してシンクロ召喚を行う場合、そのシンクロ召喚を「<a href=\"faq_search.action?ope=4&cid=4861\">神の宣告</a>」の効果によって無効にする事ができますか?",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=7920\">緊急同調</a>」を発動してシンクロ召喚を行う場合、「<a href=\"faq_search.action?ope=4&cid=4861\">神の宣告</a>」を発動して、そのシンクロ召喚を無効にする事ができます。\nしかしながら、チェーン2以降で「<a href=\"faq_search.action?ope=4&cid=7920\">緊急同調</a>」を発動する場合、チェーン処理の途中でシンクロ召喚が行われる為、チェーン処理の間に割り込んで、「<a href=\"faq_search.action?ope=4&cid=4861\">神の宣告</a>」を発動する事ができません。",
-  "date": "2017-03-24"
-}
