@@ -1,7 +1,13 @@
 {
   "fid": 6255,
+  "databaseDate": "2017-03-24",
   "title": "「The tyrant NEPTUNE」をアドバンス召喚する場合にセットした場合、その後表側表示になった「The tyrant NEPTUNE」の攻撃力・守備力はどうなりますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=8698\">ライオ・アリゲーター</a>」と「<a href=\"faq_search.action?ope=4&cid=8702\">スパウン・アリゲーター</a>」をリリースして「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」をアドバンス召喚しました。\n\nその「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」をアドバンス召喚する場合に裏側守備表示でセットしていた場合、その後、表側表示になった「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」の攻撃力・守備力はどうなりますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」の『このカードの攻撃力・守備力は、アドバンス召喚時にリリースしたモンスターの元々の攻撃力・守備力をそれぞれ合計した数値分アップする』効果は、「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」が表側表示でアドバンス召喚された際に適用される効果です。\n\nしたがって、質問の状況のように、「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」をアドバンス召喚する際にセットした場合にはその後に表側表示になったとしても、攻撃力・守備力のアップは適用されません。\n（「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」の攻撃力・守備力は0となります。）",
-  "date": "2017-03-24"
+  "question": "「ライオ・アリゲーター」と「スパウン・アリゲーター」をリリースして「The tyrant NEPTUNE」をアドバンス召喚しました。\n\nその「The tyrant NEPTUNE」をアドバンス召喚する場合に裏側守備表示でセットしていた場合、その後、表側表示になった「The tyrant NEPTUNE」の攻撃力・守備力はどうなりますか？",
+  "answer": "「The tyrant NEPTUNE」の『このカードの攻撃力・守備力は、アドバンス召喚時にリリースしたモンスターの元々の攻撃力・守備力をそれぞれ合計した数値分アップする』効果は、「The tyrant NEPTUNE」が表側表示でアドバンス召喚された際に適用される効果です。\n\nしたがって、質問の状況のように、「The tyrant NEPTUNE」をアドバンス召喚する際にセットした場合にはその後に表側表示になったとしても、攻撃力・守備力のアップは適用されません。\n（「The tyrant NEPTUNE」の攻撃力・守備力は0となります。）",
+  "tags": [
+    "モンスター"
+  ],
+  "mentionedCards": [
+    8733
+  ]
 }

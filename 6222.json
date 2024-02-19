@@ -1,7 +1,15 @@
 {
   "fid": 6222,
+  "databaseDate": "2017-03-24",
   "title": "「ガラスの鎧」の発動ターンに「進化の繭」等をリリースして「ラーバモス」を特殊召喚できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=4942\">ガラスの鎧</a>」を発動したターンに、「<a href=\"faq_search.action?ope=4&cid=4078\">進化の繭</a>」を装備している「<a href=\"faq_search.action?ope=4&cid=4284\">プチモス</a>」をリリースして、「<a href=\"faq_search.action?ope=4&cid=4062\">ラーバモス</a>」や「<a href=\"faq_search.action?ope=4&cid=4063\">グレート・モス</a>」、「<a href=\"faq_search.action?ope=4&cid=4073\">究極完全態・グレート・モス</a>」等を特殊召喚する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=4942\">ガラスの鎧</a>」の効果によって、装備カードの効果が無効にされているターンでも、「<a href=\"faq_search.action?ope=4&cid=4078\">進化の繭</a>」を装備した「<a href=\"faq_search.action?ope=4&cid=4284\">プチモス</a>」をリリースして、「<a href=\"faq_search.action?ope=4&cid=4062\">ラーバモス</a>」等を特殊召喚する事ができます。",
-  "date": "2017-03-24"
+  "question": "「ガラスの鎧」を発動したターンに、「進化の繭」を装備している「プチモス」をリリースして、「ラーバモス」や「グレート・モス」、「究極完全態・グレート・モス」等を特殊召喚する事はできますか？",
+  "answer": "「ガラスの鎧」の効果によって、装備カードの効果が無効にされているターンでも、「進化の繭」を装備した「プチモス」をリリースして、「ラーバモス」等を特殊召喚する事ができます。",
+  "tags": [
+    "特殊召喚モンスター"
+  ],
+  "mentionedCards": [
+    4062,
+    4078,
+    4942
+  ]
 }

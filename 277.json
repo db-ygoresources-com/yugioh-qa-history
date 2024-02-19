@@ -1,7 +1,15 @@
 {
   "fid": 277,
+  "databaseDate": "2022-12-24",
   "title": "「抹殺の指名者」などでカード名を宣言する場合、「伝説の都 アトランティス」や「忘却の都 レミューリア」と宣言できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=5387\">伝説の都 アトランティス</a>」や「<a href=\"faq_search.action?ope=4&cid=10279\">忘却の都 レミューリア</a>」のカード名はルール上「<a href=\"faq_search.action?ope=4&cid=4340\">海</a>」として扱いますが、「<a href=\"faq_search.action?ope=4&cid=14627\">抹殺の指名者</a>」などでカード名を宣言する場合、「<a href=\"faq_search.action?ope=4&cid=5387\">伝説の都 アトランティス</a>」や「<a href=\"faq_search.action?ope=4&cid=10279\">忘却の都 レミューリア</a>」と宣言できますか？",
-  "answer": "カード名を宣言する際に、「<a href=\"faq_search.action?ope=4&cid=5387\">伝説の都 アトランティス</a>」や「<a href=\"faq_search.action?ope=4&cid=10279\">忘却の都 レミューリア</a>」を宣言できません。\n\n「<a href=\"faq_search.action?ope=4&cid=5387\">伝説の都 アトランティス</a>」や「<a href=\"faq_search.action?ope=4&cid=10279\">忘却の都 レミューリア</a>」はどちらも、『ルール上「<a href=\"faq_search.action?ope=4&cid=4340\">海</a>」として扱う』テキストを持ちます。これらのカードについては、カード名（元々のカード名）を「<a href=\"faq_search.action?ope=4&cid=4340\">海</a>」としてデュエルに使用します。\n\nしたがって、「<a href=\"faq_search.action?ope=4&cid=14627\">抹殺の指名者</a>」でカード名を宣言する際に「<a href=\"faq_search.action?ope=4&cid=4340\">海</a>」と宣言した場合には、処理時に「<a href=\"faq_search.action?ope=4&cid=4340\">海</a>」「<a href=\"faq_search.action?ope=4&cid=5387\">伝説の都 アトランティス</a>」「<a href=\"faq_search.action?ope=4&cid=10279\">忘却の都 レミューリア</a>」のどれでも除外できます。どれを除外した場合でも、「<a href=\"faq_search.action?ope=4&cid=5387\">伝説の都 アトランティス</a>」「<a href=\"faq_search.action?ope=4&cid=10279\">忘却の都 レミューリア</a>」を含む、元々のカード名が「<a href=\"faq_search.action?ope=4&cid=4340\">海</a>」である全てのカードについて『この効果で除外したカード及びそのカードと元々のカード名が同じカードの効果は無効化される』効果が適用されます。\n\nまた、「<a href=\"faq_search.action?ope=4&cid=5239\">ハーピィ・レディ・SB</a>」や「<a href=\"faq_search.action?ope=4&cid=6186\">ハーピィ・レディ１</a>」についても同様に、「<a href=\"faq_search.action?ope=4&cid=4068\">ハーピィ・レディ</a>」と宣言します。\n\nなお、カード名を宣言する以下のカードも同様です。\n「<a href=\"faq_search.action?ope=4&cid=13267\">アカシック・マジシャン</a>」\n「<a href=\"faq_search.action?ope=4&cid=16746\">エクソシスター・カルペディベル</a>」\n「<a href=\"faq_search.action?ope=4&cid=4968\">禁止令</a>」\n「<a href=\"faq_search.action?ope=4&cid=12149\">刻印の調停者</a>」\n「<a href=\"faq_search.action?ope=4&cid=9283\">サイキック・ブロッカー</a>」\n「<a href=\"faq_search.action?ope=4&cid=9561\">The suppression PLUTO</a>」\n「<a href=\"faq_search.action?ope=4&cid=12239\">真実の名</a>」\n「<a href=\"faq_search.action?ope=4&cid=10938\">森羅の守神 アルセイ</a>」\n「<a href=\"faq_search.action?ope=4&cid=5551\">天声の服従</a>」\n「<a href=\"faq_search.action?ope=4&cid=5789\">デーモンの宣告</a>」\n「<a href=\"faq_search.action?ope=4&cid=17607\">墓守の罠</a>」\n「<a href=\"faq_search.action?ope=4&cid=16868\">発禁令</a>」\n「<a href=\"faq_search.action?ope=4&cid=14313\">亡龍の旋律</a>」\n「<a href=\"faq_search.action?ope=4&cid=9968\">マアト</a>」\n「<a href=\"faq_search.action?ope=4&cid=6147\">マインドクラッシュ</a>」\n「<a href=\"faq_search.action?ope=4&cid=9644\">リチュア・ディバイナー</a>」",
-  "date": "2022-12-24"
+  "question": "「伝説の都 アトランティス」や「忘却の都 レミューリア」のカード名はルール上「海」として扱いますが、「抹殺の指名者」などでカード名を宣言する場合、「伝説の都 アトランティス」や「忘却の都 レミューリア」と宣言できますか？",
+  "answer": "カード名を宣言する際に、「伝説の都 アトランティス」や「忘却の都 レミューリア」を宣言できません。\n\n「伝説の都 アトランティス」や「忘却の都 レミューリア」はどちらも、『ルール上「海」として扱う』テキストを持ちます。これらのカードについては、カード名（元々のカード名）を「海」としてデュエルに使用します。\n\nしたがって、「抹殺の指名者」でカード名を宣言する際に「海」と宣言した場合には、処理時に「海」「伝説の都 アトランティス」「忘却の都 レミューリア」のどれでも除外できます。どれを除外した場合でも、「伝説の都 アトランティス」「忘却の都 レミューリア」を含む、元々のカード名が「海」である全てのカードについて『この効果で除外したカード及びそのカードと元々のカード名が同じカードの効果は無効化される』効果が適用されます。\n\nまた、「ハーピィ・レディ・SB」や「ハーピィ・レディ１」についても同様に、「ハーピィ・レディ」と宣言します。\n\nなお、カード名を宣言する以下のカードも同様です。\n「アカシック・マジシャン」\n「エクソシスター・カルペディベル」\n「禁止令」\n「刻印の調停者」\n「サイキック・ブロッカー」\n「The suppression PLUTO」\n「真実の名」\n「森羅の守神 アルセイ」\n「天声の服従」\n「デーモンの宣告」\n「墓守の罠」\n「発禁令」\n「亡龍の旋律」\n「マアト」\n「マインドクラッシュ」\n「リチュア・ディバイナー」",
+  "tags": [
+    "基本ルール"
+  ],
+  "mentionedCards": [
+    5387,
+    10279,
+    14627
+  ]
 }

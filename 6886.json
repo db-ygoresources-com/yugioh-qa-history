@@ -1,7 +1,12 @@
 {
   "fid": 6886,
+  "databaseDate": "2017-03-24",
   "title": "「アルカナフォースＥＸ－THE LIGHT RULER」の効果は効果処理時に自身が存在しない場合でも、適用されますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=7344\">アルカナフォースEX－THE LIGHT RULER</a>」のコイントスによって得た効果の効果処理を行う際に、効果を発動した「<a href=\"faq_search.action?ope=4&cid=7344\">アルカナフォースEX－THE LIGHT RULER</a>」自身がフィールド上に表側表示で存在しなくなった場合、効果処理は行われますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=7344\">アルカナフォースEX－THE LIGHT RULER</a>」の得ている効果の効果処理時に、効果を発動した「<a href=\"faq_search.action?ope=4&cid=7344\">アルカナフォースEX－THE LIGHT RULER</a>」が存在していない場合でも、それぞれの効果処理が適用されます。",
-  "date": "2017-03-24"
+  "question": "「アルカナフォースEX－THE LIGHT RULER」のコイントスによって得た効果の効果処理を行う際に、効果を発動した「アルカナフォースEX－THE LIGHT RULER」自身がフィールド上に表側表示で存在しなくなった場合、効果処理は行われますか？",
+  "answer": "「アルカナフォースEX－THE LIGHT RULER」の得ている効果の効果処理時に、効果を発動した「アルカナフォースEX－THE LIGHT RULER」が存在していない場合でも、それぞれの効果処理が適用されます。",
+  "tags": [
+    "チェーン",
+    "特殊召喚モンスター"
+  ],
+  "mentionedCards": []
 }

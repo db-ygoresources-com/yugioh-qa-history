@@ -1,7 +1,14 @@
 {
   "fid": 7477,
+  "databaseDate": "2022-11-04",
   "title": "「磁力の指輪」の効果と『このカードを攻撃しなければならない』効果が適用されている場合、相手のモンスターはどのように攻撃ができますか？",
-  "question": "自分のモンスターゾーンに「<a href=\"faq_search.action?ope=4&cid=7380\">E-HERO マリシャス・デビル</a>」と「<a href=\"faq_search.action?ope=4&cid=4888\">磁力の指輪</a>」を装備した「<a href=\"faq_search.action?ope=4&cid=7260\">E-HERO ライトニング・ゴーレム</a>」が存在し、『攻撃可能な場合はこのカードを攻撃しなければならない』効果と『相手はこのカードの装備モンスターしか攻撃する事ができない』効果が適用されている場合、相手フィールドのモンスターはどのモンスターに攻撃しなければなりませんか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=4888\">磁力の指輪</a>」を装備した「<a href=\"faq_search.action?ope=4&cid=7260\">E-HERO ライトニング・ゴーレム</a>」に攻撃することになります。\n\n『攻撃可能な場合はこのカードを攻撃しなければならない』効果を含むカードの例：\n「<a href=\"faq_search.action?ope=4&cid=6922\">アース・グラビティ</a>」\n「<a href=\"faq_search.action?ope=4&cid=7085\">ヴォルカニック・デビル</a>」\n「<a href=\"faq_search.action?ope=4&cid=7380\">E-HERO マリシャス・デビル</a>」\n「<a href=\"faq_search.action?ope=4&cid=16049\">CiNo.1000 夢幻虚光神ヌメロニアス・ヌメロニア</a>」\n「<a href=\"faq_search.action?ope=4&cid=5577\">機械じかけのマジックミラー</a>」\n「<a href=\"faq_search.action?ope=4&cid=17660\">Gゴーレム・インヴァリッド・ドルメン</a>」\n「<a href=\"faq_search.action?ope=4&cid=17661\">Gゴーレム・ディグニファイド・トリリトン</a>」\n「<a href=\"faq_search.action?ope=4&cid=11019\">No.31 アベルズ・デビル</a>」\n「<a href=\"faq_search.action?ope=4&cid=11018\">No.13 ケインズ・デビル</a>」\n「<a href=\"faq_search.action?ope=4&cid=6719\">パペット・ルーク</a>」\n「<a href=\"faq_search.action?ope=4&cid=11252\">ヒュプノシスター</a>」\n「<a href=\"faq_search.action?ope=4&cid=16619\">ホーリー・エルフ－ホーリー・バースト・ストリーム</a>」\n「<a href=\"faq_search.action?ope=4&cid=5083\">ライトローミディアム</a>」",
-  "date": "2022-11-04"
+  "question": "自分のモンスターゾーンに「E-HERO マリシャス・デビル」と「磁力の指輪」を装備した「E-HERO ライトニング・ゴーレム」が存在し、『攻撃可能な場合はこのカードを攻撃しなければならない』効果と『相手はこのカードの装備モンスターしか攻撃する事ができない』効果が適用されている場合、相手フィールドのモンスターはどのモンスターに攻撃しなければなりませんか？",
+  "answer": "「磁力の指輪」を装備した「E-HERO ライトニング・ゴーレム」に攻撃することになります。\n\n『攻撃可能な場合はこのカードを攻撃しなければならない』効果を含むカードの例：\n「アース・グラビティ」\n「ヴォルカニック・デビル」\n「E-HERO マリシャス・デビル」\n「CiNo.1000 夢幻虚光神ヌメロニアス・ヌメロニア」\n「機械じかけのマジックミラー」\n「Gゴーレム・インヴァリッド・ドルメン」\n「Gゴーレム・ディグニファイド・トリリトン」\n「No.31 アベルズ・デビル」\n「No.13 ケインズ・デビル」\n「パペット・ルーク」\n「ヒュプノシスター」\n「ホーリー・エルフ－ホーリー・バースト・ストリーム」\n「ライトローミディアム」",
+  "tags": [
+    "モンスター",
+    "魔法"
+  ],
+  "mentionedCards": [
+    4888
+  ]
 }

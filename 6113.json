@@ -1,7 +1,14 @@
 {
   "fid": 6113,
+  "databaseDate": "2017-03-24",
   "title": "「フェンリル」が裏側の「人喰い虫」等を攻撃し効果によって破壊された時、ドローフェイズはスキップされますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=5830\">フェンリル</a>」が、裏側表示の「<a href=\"faq_search.action?ope=4&cid=4507\">人喰い虫</a>」や「<a href=\"faq_search.action?ope=4&cid=5651\">執念深き老魔術師</a>」、「<a href=\"faq_search.action?ope=4&cid=6042\">深淵の暗殺者</a>」等を攻撃し、ダメージ計算後に発動する「<a href=\"faq_search.action?ope=4&cid=4507\">人喰い虫</a>」等の効果によって「<a href=\"faq_search.action?ope=4&cid=5830\">フェンリル</a>」が破壊された場合、「<a href=\"faq_search.action?ope=4&cid=5830\">フェンリル</a>」の効果によって次の相手ターンのドローフェイズをスキップされますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=5830\">フェンリル</a>」が裏側表示の「<a href=\"faq_search.action?ope=4&cid=4507\">人喰い虫</a>」等に攻撃を行い、ダメージ計算にて「<a href=\"faq_search.action?ope=4&cid=4507\">人喰い虫</a>」等の破壊が決定した場合、「<a href=\"faq_search.action?ope=4&cid=4507\">人喰い虫</a>」等の効果によって「<a href=\"faq_search.action?ope=4&cid=5830\">フェンリル</a>」が破壊されるため、「<a href=\"faq_search.action?ope=4&cid=5830\">フェンリル</a>」の効果は発動しません。",
-  "date": "2017-03-24"
+  "question": "「フェンリル」が、裏側表示の「人喰い虫」や「執念深き老魔術師」、「深淵の暗殺者」等を攻撃し、ダメージ計算後に発動する「人喰い虫」等の効果によって「フェンリル」が破壊された場合、「フェンリル」の効果によって次の相手ターンのドローフェイズをスキップされますか？",
+  "answer": "「フェンリル」が裏側表示の「人喰い虫」等に攻撃を行い、ダメージ計算にて「人喰い虫」等の破壊が決定した場合、「人喰い虫」等の効果によって「フェンリル」が破壊されるため、「フェンリル」の効果は発動しません。",
+  "tags": [
+    "モンスター"
+  ],
+  "mentionedCards": [
+    4507,
+    5830
+  ]
 }
