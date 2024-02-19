@@ -1,7 +1,15 @@
 {
   "fid": 10933,
+  "databaseDate": "2017-03-24",
   "title": "「W星雲隕石」のカードの発動にチェーンして、「王宮の弾圧」「神の警告」を発動できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=9551\">W星雲隕石</a>」のカードの発動にチェーンをして、「<a href=\"faq_search.action?ope=4&cid=5399\">王宮の弾圧</a>」や「<a href=\"faq_search.action?ope=4&cid=9008\">神の警告</a>」を発動する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=9551\">W星雲隕石</a>」のカードの発動にチェーンをして、「<a href=\"faq_search.action?ope=4&cid=5399\">王宮の弾圧</a>」や「<a href=\"faq_search.action?ope=4&cid=9008\">神の警告</a>」を発動する事はできます。",
-  "date": "2017-03-24"
+  "question": "「W星雲隕石」のカードの発動にチェーンをして、「王宮の弾圧」や「神の警告」を発動する事はできますか？",
+  "answer": "「W星雲隕石」のカードの発動にチェーンをして、「王宮の弾圧」や「神の警告」を発動する事はできます。",
+  "tags": [
+    "チェーン"
+  ],
+  "mentionedCards": [
+    5399,
+    9008,
+    9551
+  ]
 }

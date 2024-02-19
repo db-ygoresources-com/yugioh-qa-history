@@ -1,7 +1,14 @@
 {
   "fid": 10032,
+  "databaseDate": "2017-03-24",
   "title": "「ミラクルシンクロフュージョン」で、「E・HERO アブソルートZero」を融合召喚できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=8988\">ミラクルシンクロフュージョン</a>」の効果によって融合召喚を行う際に、シンクロモンスターを融合素材に使用して、「<a href=\"faq_search.action?ope=4&cid=8129\">E・HERO アブソルートZero</a>」や「<a href=\"faq_search.action?ope=4&cid=5502\">F・G・D</a>」を融合召喚する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=8988\">ミラクルシンクロフュージョン</a>」は、シンクロモンスターを融合素材とする融合モンスターのみを融合召喚する事ができます。\nしたがって、「<a href=\"faq_search.action?ope=4&cid=8129\">E・HERO アブソルートZero</a>」や「<a href=\"faq_search.action?ope=4&cid=5502\">F・G・D</a>」を融合召喚する事はできません。\nなお、「<a href=\"faq_search.action?ope=4&cid=8988\">ミラクルシンクロフュージョン</a>」の効果によって、融合召喚が可能なモンスターは、「<a href=\"faq_search.action?ope=4&cid=8727\">ナチュル・エクストリオ</a>」や「<a href=\"faq_search.action?ope=4&cid=8969\">波動竜騎士 ドラゴエクィテス</a>」等になります。",
-  "date": "2017-03-24"
+  "question": "「ミラクルシンクロフュージョン」の効果によって融合召喚を行う際に、シンクロモンスターを融合素材に使用して、「E・HERO アブソルートZero」や「F・G・D」を融合召喚する事はできますか？",
+  "answer": "「ミラクルシンクロフュージョン」は、シンクロモンスターを融合素材とする融合モンスターのみを融合召喚する事ができます。\nしたがって、「E・HERO アブソルートZero」や「F・G・D」を融合召喚する事はできません。\nなお、「ミラクルシンクロフュージョン」の効果によって、融合召喚が可能なモンスターは、「ナチュル・エクストリオ」や「波動竜騎士 ドラゴエクィテス」等になります。",
+  "tags": [
+    "融合"
+  ],
+  "mentionedCards": [
+    8129,
+    8988
+  ]
 }

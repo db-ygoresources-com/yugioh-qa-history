@@ -1,7 +1,13 @@
 {
   "fid": 10810,
+  "databaseDate": "2017-03-24",
   "title": "「The supremacy SUN」が、装備カードの状態で破壊され墓地へ送られた場合、自身を特殊召喚できますか？",
-  "question": "フィールド上に表側表示で存在する「<a href=\"faq_search.action?ope=4&cid=9562\">The supremacy SUN</a>」が、「<a href=\"faq_search.action?ope=4&cid=4737\">サクリファイス</a>」等によって装備カード扱いになっている時に破壊され墓地へ送られた場合、次のターンのスタンバイフェイズ時に、「<a href=\"faq_search.action?ope=4&cid=9562\">The supremacy SUN</a>」の自身を墓地から特殊召喚する効果を発動する事はできますか？",
-  "answer": "表側表示にて装備カード扱いとなっている「<a href=\"faq_search.action?ope=4&cid=9562\">The supremacy SUN</a>」が、破壊されて墓地へ送られた場合、次のターンのスタンバイフェイズ時に、墓地から自身を特殊召喚する効果を発動する事ができます。",
-  "date": "2017-03-24"
+  "question": "フィールド上に表側表示で存在する「The supremacy SUN」が、「サクリファイス」等によって装備カード扱いになっている時に破壊され墓地へ送られた場合、次のターンのスタンバイフェイズ時に、「The supremacy SUN」の自身を墓地から特殊召喚する効果を発動する事はできますか？",
+  "answer": "表側表示にて装備カード扱いとなっている「The supremacy SUN」が、破壊されて墓地へ送られた場合、次のターンのスタンバイフェイズ時に、墓地から自身を特殊召喚する効果を発動する事ができます。",
+  "tags": [
+    "モンスター"
+  ],
+  "mentionedCards": [
+    9562
+  ]
 }

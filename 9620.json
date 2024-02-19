@@ -1,7 +1,13 @@
 {
   "fid": 9620,
+  "databaseDate": "2017-03-24",
   "title": "「The tyrant NEPTUNE」の攻撃力はどの時点の数値を参照してアップしますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」をアドバンス召喚する際に、リリースせずに召喚し、元々の攻撃力が1900として扱われている「<a href=\"faq_search.action?ope=4&cid=7346\">神獣王バルバロス</a>」をリリースした場合、「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」の攻撃力・守備力の数値はいくつになりますか？\nまた、攻撃力が1900となっている「<a href=\"faq_search.action?ope=4&cid=7346\">神獣王バルバロス</a>」2体をリリースしてアドバンス召喚した場合、「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」の攻撃力・守備力の数値はいくつになりますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」の攻撃力・守備力をアップする効果は、「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」をアドバンス召喚する際に、リリースしたモンスターに記載されている攻撃力と守備力の数値を参照して攻撃力・守備力をアップします。\nよって、元々の攻撃力が1900として扱われている「<a href=\"faq_search.action?ope=4&cid=7346\">神獣王バルバロス</a>」をリリースした場合でも、「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」の攻撃力は3000、守備力は1200になります。\nまた、2体の「<a href=\"faq_search.action?ope=4&cid=7346\">神獣王バルバロス</a>」をリリースして「<a href=\"faq_search.action?ope=4&cid=8733\">The tyrant NEPTUNE</a>」をアドバンス召喚した場合、攻撃力は6000、守備力は2400アップします。",
-  "date": "2017-03-24"
+  "question": "「The tyrant NEPTUNE」をアドバンス召喚する際に、リリースせずに召喚し、元々の攻撃力が1900として扱われている「神獣王バルバロス」をリリースした場合、「The tyrant NEPTUNE」の攻撃力・守備力の数値はいくつになりますか？\nまた、攻撃力が1900となっている「神獣王バルバロス」2体をリリースしてアドバンス召喚した場合、「The tyrant NEPTUNE」の攻撃力・守備力の数値はいくつになりますか？",
+  "answer": "「The tyrant NEPTUNE」の攻撃力・守備力をアップする効果は、「The tyrant NEPTUNE」をアドバンス召喚する際に、リリースしたモンスターに記載されている攻撃力と守備力の数値を参照して攻撃力・守備力をアップします。\nよって、元々の攻撃力が1900として扱われている「神獣王バルバロス」をリリースした場合でも、「The tyrant NEPTUNE」の攻撃力は3000、守備力は1200になります。\nまた、2体の「神獣王バルバロス」をリリースして「The tyrant NEPTUNE」をアドバンス召喚した場合、攻撃力は6000、守備力は2400アップします。",
+  "tags": [
+    "モンスター"
+  ],
+  "mentionedCards": [
+    8733
+  ]
 }

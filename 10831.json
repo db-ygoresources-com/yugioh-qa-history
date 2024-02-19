@@ -1,7 +1,14 @@
 {
   "fid": 10831,
+  "databaseDate": "2017-03-24",
   "title": "「神の警告」の効果で、「XYZ－ドラゴン・キャノン」等の特殊召喚を無効にする事はできますか？",
-  "question": "魔法カードの「<a href=\"faq_search.action?ope=4&cid=4837\">融合</a>」を使用しない「<a href=\"faq_search.action?ope=4&cid=5556\">XYZ－ドラゴン・キャノン</a>」や「<a href=\"faq_search.action?ope=4&cid=7617\">剣闘獣ガイザレス</a>」等の特殊召喚を、「<a href=\"faq_search.action?ope=4&cid=9008\">神の警告</a>」の効果によって無効にする事はできますか？",
-  "answer": "魔法カードの「<a href=\"faq_search.action?ope=4&cid=4837\">融合</a>」等を使用せずに特殊召喚を行う「<a href=\"faq_search.action?ope=4&cid=5556\">XYZ－ドラゴン・キャノン</a>」や「<a href=\"faq_search.action?ope=4&cid=7617\">剣闘獣ガイザレス</a>」等の特殊召喚を、「<a href=\"faq_search.action?ope=4&cid=9008\">神の警告</a>」の効果によって無効にし破壊する事ができます。",
-  "date": "2017-03-24"
+  "question": "魔法カードの「融合」を使用しない「XYZ－ドラゴン・キャノン」や「剣闘獣ガイザレス」等の特殊召喚を、「神の警告」の効果によって無効にする事はできますか？",
+  "answer": "魔法カードの「融合」等を使用せずに特殊召喚を行う「XYZ－ドラゴン・キャノン」や「剣闘獣ガイザレス」等の特殊召喚を、「神の警告」の効果によって無効にし破壊する事ができます。",
+  "tags": [
+    "融合"
+  ],
+  "mentionedCards": [
+    5556,
+    9008
+  ]
 }

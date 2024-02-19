@@ -1,7 +1,14 @@
 {
   "fid": 9562,
+  "databaseDate": "2017-03-24",
   "title": "「Sin 青眼の白龍」が存在する時に、「滅びの爆裂疾風弾」を発動する事はできますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=5979\">滅びの爆裂疾風弾</a>」は、自分フィールド上に「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」が表側表示で存在する場合のみ発動する事ができますが、自分フィールド上に「<a href=\"faq_search.action?ope=4&cid=8864\">Sin 青眼の白龍</a>」のみが表側表示で存在する場合にも、「<a href=\"faq_search.action?ope=4&cid=5979\">滅びの爆裂疾風弾</a>」を発動する事はできますか？\nまた、「<a href=\"faq_search.action?ope=4&cid=7850\">伝説の白石</a>」が墓地へ送られた時に、デッキから「<a href=\"faq_search.action?ope=4&cid=8864\">Sin 青眼の白龍</a>」1体を手札に加える事ができますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=5979\">滅びの爆裂疾風弾</a>」や「<a href=\"faq_search.action?ope=4&cid=7850\">伝説の白石</a>」に記載されている「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」は、「<a href=\"faq_search.action?ope=4&cid=8864\">Sin 青眼の白龍</a>」のカード名は含まれません。\nよって、フィールド上に「<a href=\"faq_search.action?ope=4&cid=8864\">Sin 青眼の白龍</a>」が表側表示で存在する時に、「<a href=\"faq_search.action?ope=4&cid=5979\">滅びの爆裂疾風弾</a>」を発動する事はできません。\nまた、「<a href=\"faq_search.action?ope=4&cid=7850\">伝説の白石</a>」の効果によって、「<a href=\"faq_search.action?ope=4&cid=8864\">Sin 青眼の白龍</a>」をデッキから手札に加える事もできません。",
-  "date": "2017-03-24"
+  "question": "「滅びの爆裂疾風弾」は、自分フィールド上に「青眼の白龍」が表側表示で存在する場合のみ発動する事ができますが、自分フィールド上に「Sin 青眼の白龍」のみが表側表示で存在する場合にも、「滅びの爆裂疾風弾」を発動する事はできますか？\nまた、「伝説の白石」が墓地へ送られた時に、デッキから「Sin 青眼の白龍」1体を手札に加える事ができますか？",
+  "answer": "「滅びの爆裂疾風弾」や「伝説の白石」に記載されている「青眼の白龍」は、「Sin 青眼の白龍」のカード名は含まれません。\nよって、フィールド上に「Sin 青眼の白龍」が表側表示で存在する時に、「滅びの爆裂疾風弾」を発動する事はできません。\nまた、「伝説の白石」の効果によって、「Sin 青眼の白龍」をデッキから手札に加える事もできません。",
+  "tags": [
+    "特殊召喚モンスター"
+  ],
+  "mentionedCards": [
+    5979,
+    8864
+  ]
 }

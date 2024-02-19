@@ -1,7 +1,14 @@
 {
   "fid": 10416,
+  "databaseDate": "2017-03-24",
   "title": "フィールド魔法が無い時に「ハードアームドラゴン」をリリースして「地縛神 Aslla piscu」を召喚した場合、破壊されずに残りますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=8374\">ハードアームドラゴン</a>」をリリースして「<a href=\"faq_search.action?ope=4&cid=8171\">地縛神 Aslla piscu</a>」等をアドバンス召喚しました。\nフィールド魔法が存在しない場合、アドバンス召喚した「<a href=\"faq_search.action?ope=4&cid=8171\">地縛神 Aslla piscu</a>」等はどうなりますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=8171\">地縛神 Aslla piscu</a>」等の、“フィールド魔法が存在しない場合に自身を破壊する”効果は、自身のカードの効果となります。\nよって、「<a href=\"faq_search.action?ope=4&cid=8374\">ハードアームドラゴン</a>」をリリースして召喚した「<a href=\"faq_search.action?ope=4&cid=8171\">地縛神 Aslla piscu</a>」は、フィールド魔法カードが無い場合であっても自身の効果で破壊される事はありません。",
-  "date": "2017-03-24"
+  "question": "「ハードアームドラゴン」をリリースして「地縛神 Aslla piscu」等をアドバンス召喚しました。\nフィールド魔法が存在しない場合、アドバンス召喚した「地縛神 Aslla piscu」等はどうなりますか？",
+  "answer": "「地縛神 Aslla piscu」等の、“フィールド魔法が存在しない場合に自身を破壊する”効果は、自身のカードの効果となります。\nよって、「ハードアームドラゴン」をリリースして召喚した「地縛神 Aslla piscu」は、フィールド魔法カードが無い場合であっても自身の効果で破壊される事はありません。",
+  "tags": [
+    "モンスター"
+  ],
+  "mentionedCards": [
+    8171,
+    8374
+  ]
 }

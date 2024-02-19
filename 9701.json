@@ -1,7 +1,14 @@
 {
   "fid": 9701,
+  "databaseDate": "2017-03-24",
   "title": "「E・HERO ネオス」2体を融合素材とした「E・HERO ネオス・ナイト」の攻撃力はアップしますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=8866\">E・HERO ネオス・ナイト</a>」は、融合素材として使用した「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」以外のモンスターの攻撃力の半分の数値分アップしますが、戦士族モンスターとして、2体目の「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」を融合素材として使用した場合、「<a href=\"faq_search.action?ope=4&cid=8866\">E・HERO ネオス・ナイト</a>」の攻撃力はアップしますか？",
-  "answer": "2体の「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」を融合素材として使用し、「<a href=\"faq_search.action?ope=4&cid=8866\">E・HERO ネオス・ナイト</a>」を融合召喚した場合、「<a href=\"faq_search.action?ope=4&cid=8866\">E・HERO ネオス・ナイト</a>」の攻撃力はアップしません。",
-  "date": "2017-03-24"
+  "question": "「E・HERO ネオス・ナイト」は、融合素材として使用した「E・HERO ネオス」以外のモンスターの攻撃力の半分の数値分アップしますが、戦士族モンスターとして、2体目の「E・HERO ネオス」を融合素材として使用した場合、「E・HERO ネオス・ナイト」の攻撃力はアップしますか？",
+  "answer": "2体の「E・HERO ネオス」を融合素材として使用し、「E・HERO ネオス・ナイト」を融合召喚した場合、「E・HERO ネオス・ナイト」の攻撃力はアップしません。",
+  "tags": [
+    "融合"
+  ],
+  "mentionedCards": [
+    6653,
+    8866
+  ]
 }
