@@ -1,7 +1,15 @@
 {
   "fid": 8186,
+  "databaseDate": "2017-03-24",
   "title": "「虚無魔人」の効果が適用されている時に、「名推理」を発動する事はできますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=6881\">虚無魔人</a>」や「<a href=\"faq_search.action?ope=4&cid=7405\">フォッシル・ダイナ パキケファロ</a>」等のモンスターを特殊召喚する事ができない効果が適用されている時に、「<a href=\"faq_search.action?ope=4&cid=5530\">名推理</a>」や「<a href=\"faq_search.action?ope=4&cid=5980\">モンスターゲート</a>」を発動する事ができますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=6881\">虚無魔人</a>」や「<a href=\"faq_search.action?ope=4&cid=7405\">フォッシル・ダイナ パキケファロ</a>」の効果が適用されている場合、「<a href=\"faq_search.action?ope=4&cid=5530\">名推理</a>」や「<a href=\"faq_search.action?ope=4&cid=5980\">モンスターゲート</a>」を発動する事はできません。",
-  "date": "2017-03-24"
+  "question": "「虚無魔人」や「フォッシル・ダイナ パキケファロ」等のモンスターを特殊召喚する事ができない効果が適用されている時に、「名推理」や「モンスターゲート」を発動する事ができますか？",
+  "answer": "「虚無魔人」や「フォッシル・ダイナ パキケファロ」の効果が適用されている場合、「名推理」や「モンスターゲート」を発動する事はできません。",
+  "tags": [
+    "モンスター",
+    "魔法"
+  ],
+  "mentionedCards": [
+    5530,
+    6881
+  ]
 }

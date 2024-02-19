@@ -1,7 +1,14 @@
 {
   "fid": 7942,
+  "databaseDate": "2017-03-24",
   "title": "「緊急儀式術」の発動にチェーンして「神の警告」を発動できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=12021\">緊急儀式術</a>」の発動にチェーンして「<a href=\"faq_search.action?ope=4&cid=9008\">神の警告</a>」を発動する事はできますか？",
+  "question": "「緊急儀式術」の発動にチェーンして「神の警告」を発動する事はできますか？",
   "answer": "できます。",
-  "date": "2017-03-24"
+  "tags": [
+    "儀式"
+  ],
+  "mentionedCards": [
+    9008,
+    12021
+  ]
 }

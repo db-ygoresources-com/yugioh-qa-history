@@ -1,7 +1,14 @@
 {
   "fid": 9231,
+  "databaseDate": "2017-03-24",
   "title": "「RAI－MEI」や「雷鳴」のカード名を宣言する場合、区別をつける必要はありますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=8082\">RAI－MEI</a>」と「<a href=\"faq_search.action?ope=4&cid=4841\">雷鳴</a>」のカード名は、どちらも“らいめい”と読みますが、「<a href=\"faq_search.action?ope=4&cid=6147\">マインドクラッシュ</a>」等の効果によって、カード名を宣言する際に、「<a href=\"faq_search.action?ope=4&cid=8082\">RAI－MEI</a>」や「<a href=\"faq_search.action?ope=4&cid=4841\">雷鳴</a>」と宣言する場合、それぞれのカードをどのように区別して宣言しますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=6147\">マインドクラッシュ</a>」等の効果によってカード名を宣言する場合、“モンスターカードのらいめい”または、“魔法カードのらいめい”等、相手プレイヤーに「<a href=\"faq_search.action?ope=4&cid=8082\">RAI－MEI</a>」と「<a href=\"faq_search.action?ope=4&cid=4841\">雷鳴</a>」の、どちらのカード名を指しているかが分かるように宣言します。",
-  "date": "2017-03-24"
+  "question": "「RAI－MEI」と「雷鳴」のカード名は、どちらも“らいめい”と読みますが、「マインドクラッシュ」等の効果によって、カード名を宣言する際に、「RAI－MEI」や「雷鳴」と宣言する場合、それぞれのカードをどのように区別して宣言しますか？",
+  "answer": "「マインドクラッシュ」等の効果によってカード名を宣言する場合、“モンスターカードのらいめい”または、“魔法カードのらいめい”等、相手プレイヤーに「RAI－MEI」と「雷鳴」の、どちらのカード名を指しているかが分かるように宣言します。",
+  "tags": [
+    "基本ルール"
+  ],
+  "mentionedCards": [
+    4841,
+    8082
+  ]
 }

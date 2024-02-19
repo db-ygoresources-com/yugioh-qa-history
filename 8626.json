@@ -1,7 +1,15 @@
 {
   "fid": 8626,
+  "databaseDate": "2017-03-24",
   "title": "手札の「コアキメイルの鋼核」が公開されている時に「鋼核の輝き」を発動する事ができますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=4958\">正々堂々</a>」や「<a href=\"faq_search.action?ope=4&cid=4928\">セレモニーベル</a>」等の効果によって、既に手札の「<a href=\"faq_search.action?ope=4&cid=8207\">コアキメイルの鋼核</a>」が公開されている場合に、手札の「<a href=\"faq_search.action?ope=4&cid=8207\">コアキメイルの鋼核</a>」を相手に見せて発動する「<a href=\"faq_search.action?ope=4&cid=8364\">鋼核の輝き</a>」を発動する事ができますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=4958\">正々堂々</a>」等の効果によって手札に存在する「<a href=\"faq_search.action?ope=4&cid=8207\">コアキメイルの鋼核</a>」が公開されている場合、「<a href=\"faq_search.action?ope=4&cid=8364\">鋼核の輝き</a>」を発動する事はできません。",
-  "date": "2017-03-24"
+  "question": "「正々堂々」や「セレモニーベル」等の効果によって、既に手札の「コアキメイルの鋼核」が公開されている場合に、手札の「コアキメイルの鋼核」を相手に見せて発動する「鋼核の輝き」を発動する事ができますか？",
+  "answer": "「正々堂々」等の効果によって手札に存在する「コアキメイルの鋼核」が公開されている場合、「鋼核の輝き」を発動する事はできません。",
+  "tags": [
+    "魔法",
+    "罠"
+  ],
+  "mentionedCards": [
+    8207,
+    8364
+  ]
 }
