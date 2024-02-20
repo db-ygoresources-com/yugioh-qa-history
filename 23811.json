@@ -1,7 +1,13 @@
 {
   "fid": 23811,
+  "databaseDate": "2022-12-30",
   "title": "「沈黙狼－カルーポ」の①の効果で、装備先や装備の方法に指定のある装備魔法カードを裏側表示で装備することはできますか？",
-  "question": "自分が「<a href=\"faq_search.action?ope=4&cid=17792\">沈黙狼－カルーポ</a>」の①の効果の処理としてデッキの一番上のカードを裏側表示で装備する際に、デッキの一番上のカードが、他のカードの効果で装備できない装備魔法カードである「<a href=\"faq_search.action?ope=4&cid=16387\">フルール・ド・フルーレ</a>」や、特定のモンスターにしか装備できない装備魔法カードである「<a href=\"faq_search.action?ope=4&cid=8205\">ダブルツールD＆C</a>」だった場合、処理はどうなりますか？",
-  "answer": "その場合でも裏側表示で装備します。\n\nなお、装備するカードが以下の場合でも、同様の処理を行います。\n「<a href=\"faq_search.action?ope=4&cid=17259\">歌氷麗月</a>」「<a href=\"faq_search.action?ope=4&cid=13850\">エターナル・エヴォリューション・バースト</a>」「<a href=\"faq_search.action?ope=4&cid=11904\">コミックハンド</a>」\n「<a href=\"faq_search.action?ope=4&cid=8435\">スーペルヴィス</a>」「<a href=\"faq_search.action?ope=4&cid=14422\">セレンの呪眼</a>」「<a href=\"faq_search.action?ope=4&cid=7223\">戦線復活の代償</a>」\n「<a href=\"faq_search.action?ope=4&cid=7519\">D・D・R</a>」「<a href=\"faq_search.action?ope=4&cid=6993\">ネオス・フォース</a>」「<a href=\"faq_search.action?ope=4&cid=10189\">ネクロの魔導書</a>」\n「<a href=\"faq_search.action?ope=4&cid=7867\">念動増幅装置</a>」「<a href=\"faq_search.action?ope=4&cid=7390\">宝玉の解放</a>」「<a href=\"faq_search.action?ope=4&cid=8206\">D・リペアユニット</a>」",
-  "date": "2022-12-30"
+  "question": "自分が「沈黙狼－カルーポ」の①の効果の処理としてデッキの一番上のカードを裏側表示で装備する際に、デッキの一番上のカードが、他のカードの効果で装備できない装備魔法カードである「フルール・ド・フルーレ」や、特定のモンスターにしか装備できない装備魔法カードである「ダブルツールD＆C」だった場合、処理はどうなりますか？",
+  "answer": "その場合でも裏側表示で装備します。\n\nなお、装備するカードが以下の場合でも、同様の処理を行います。\n「歌氷麗月」「エターナル・エヴォリューション・バースト」「コミックハンド」\n「スーペルヴィス」「セレンの呪眼」「戦線復活の代償」\n「D・D・R」「ネオス・フォース」「ネクロの魔導書」\n「念動増幅装置」「宝玉の解放」「D・リペアユニット」",
+  "tags": [
+    "モンスター"
+  ],
+  "mentionedCards": [
+    17792
+  ]
 }

@@ -1,7 +1,13 @@
 {
   "fid": 24030,
+  "databaseDate": "2023-11-23",
   "title": "召喚された「RR－バニシング・レイニアス」が、一度裏側表示になり表側表示に戻った場合、効果を発動できますか？",
-  "question": "このターン中に召喚または特殊召喚された「<a href=\"faq_search.action?ope=4&cid=11531\">RR－バニシング・レイニアス</a>」が一度裏側守備表示になり、その後再び表側表示になりました。\n\n自分はこの「<a href=\"faq_search.action?ope=4&cid=11531\">RR－バニシング・レイニアス</a>」の『①：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズに１度だけ発動できる』効果を発動できますか？",
-  "answer": "発動できません。\n\n「<a href=\"faq_search.action?ope=4&cid=11531\">RR－バニシング・レイニアス</a>」の効果を発動するには、召喚・特殊召喚されてから効果の発動を宣言するまで、モンスターゾーンに表側表示で存在し続ける必要があります。\n\n以下のカードのメインフェイズに発動できる効果についても同様に、召喚（反転召喚・特殊召喚・リバース）されてから効果の発動を宣言するまで、モンスターゾーンに表側表示で存在し続けた場合に、発動できます。\n「<a href=\"faq_search.action?ope=4&cid=10508\">速炎星－タイヒョウ</a>」\n「<a href=\"faq_search.action?ope=4&cid=11328\">DDD制覇王カイゼル</a>」\n「<a href=\"faq_search.action?ope=4&cid=11372\">番犬－ウォッチドッグ</a>」\n「<a href=\"faq_search.action?ope=4&cid=11691\">RR－インペイル・レイニアス</a>」\n「<a href=\"faq_search.action?ope=4&cid=11692\">RR－ミミクリー・レイニアス</a>」\n「<a href=\"faq_search.action?ope=4&cid=11767\">RR－トリビュート・レイニアス</a>」\n「<a href=\"faq_search.action?ope=4&cid=11957\">RR－ワイルド・ヴァルチャー</a>」\n「<a href=\"faq_search.action?ope=4&cid=19459\">RR－ノアール・レイニアス</a>」\n「<a href=\"faq_search.action?ope=4&cid=11781\">ジャンク・ブレイカー</a>」\n「<a href=\"faq_search.action?ope=4&cid=12400\">EMボットアイズ・リザード</a>」\n「<a href=\"faq_search.action?ope=4&cid=12530\">EMユニ</a>」\n「<a href=\"faq_search.action?ope=4&cid=12531\">EMコン</a>」\n「<a href=\"faq_search.action?ope=4&cid=12738\">EMダグ・ダガーマン</a>」\n「<a href=\"faq_search.action?ope=4&cid=12918\">EMユーゴーレム</a>」\n「<a href=\"faq_search.action?ope=4&cid=14925\">EM天空の魔術師</a>」\n「<a href=\"faq_search.action?ope=4&cid=18151\">クシャトリラ・ライズハート</a>」\n「<a href=\"faq_search.action?ope=4&cid=19381\">天使の聲</a>」\n「<a href=\"faq_search.action?ope=4&cid=19382\">悪魔の聲</a>」",
-  "date": "2023-11-23"
+  "question": "このターン中に召喚または特殊召喚された「RR－バニシング・レイニアス」が一度裏側守備表示になり、その後再び表側表示になりました。\n\n自分はこの「RR－バニシング・レイニアス」の『①：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズに１度だけ発動できる』効果を発動できますか？",
+  "answer": "発動できません。\n\n「RR－バニシング・レイニアス」の効果を発動するには、召喚・特殊召喚されてから効果の発動を宣言するまで、モンスターゾーンに表側表示で存在し続ける必要があります。\n\n以下のカードのメインフェイズに発動できる効果についても同様に、召喚（反転召喚・特殊召喚・リバース）されてから効果の発動を宣言するまで、モンスターゾーンに表側表示で存在し続けた場合に、発動できます。\n「速炎星－タイヒョウ」\n「DDD制覇王カイゼル」\n「番犬－ウォッチドッグ」\n「RR－インペイル・レイニアス」\n「RR－ミミクリー・レイニアス」\n「RR－トリビュート・レイニアス」\n「RR－ワイルド・ヴァルチャー」\n「RR－ノアール・レイニアス」\n「ジャンク・ブレイカー」\n「EMボットアイズ・リザード」\n「EMユニ」\n「EMコン」\n「EMダグ・ダガーマン」\n「EMユーゴーレム」\n「EM天空の魔術師」\n「クシャトリラ・ライズハート」\n「天使の聲」\n「悪魔の聲」",
+  "tags": [
+    "モンスター"
+  ],
+  "mentionedCards": [
+    11531
+  ]
 }

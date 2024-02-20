@@ -1,7 +1,14 @@
 {
   "fid": 23678,
+  "databaseDate": "2022-12-30",
   "title": "「転生断絶」の適用中に、「フェイバリット・コンタクト」を発動し、処理を適用できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=7478\">転生断絶</a>」の『墓地からデッキに戻るカードはデッキに戻らずゲームから除外される』効果が適用されており、墓地に<a href=\"faq_search.action?ope=4&cid=6770\">N・グラン・モール</a>」と「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」、EXデッキに「<a href=\"faq_search.action?ope=4&cid=6990\">E・HERO グラン・ネオス</a>」がそれぞれ存在しています。\n\nこの状況で「<a href=\"faq_search.action?ope=4&cid=17471\">フェイバリット・コンタクト</a>」を発動し、「<a href=\"faq_search.action?ope=4&cid=6990\">E・HERO グラン・ネオス</a>」を召喚条件を無視して特殊召喚できますか？",
-  "answer": "発動できます。\nその場合、墓地の「<a href=\"faq_search.action?ope=4&cid=6770\">N・グラン・モール</a>」と「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」はデッキに戻らず除外されますが、「<a href=\"faq_search.action?ope=4&cid=6990\">E・HERO グラン・ネオス</a>」の特殊召喚は行えます。",
-  "date": "2022-12-30"
+  "question": "「転生断絶」の『墓地からデッキに戻るカードはデッキに戻らずゲームから除外される』効果が適用されており、墓地にN・グラン・モール」と「E・HERO ネオス」、EXデッキに「E・HERO グラン・ネオス」がそれぞれ存在しています。\n\nこの状況で「フェイバリット・コンタクト」を発動し、「E・HERO グラン・ネオス」を召喚条件を無視して特殊召喚できますか？",
+  "answer": "発動できます。\nその場合、墓地の「N・グラン・モール」と「E・HERO ネオス」はデッキに戻らず除外されますが、「E・HERO グラン・ネオス」の特殊召喚は行えます。",
+  "tags": [
+    "罠"
+  ],
+  "mentionedCards": [
+    7478,
+    17471
+  ]
 }
