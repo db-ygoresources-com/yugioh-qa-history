@@ -1,7 +1,15 @@
 {
   "fid": 22877,
+  "databaseDate": "2022-12-30",
   "title": "「E・HERO エリクシーラー」と「E・HERO フェザーマン」を融合素材として、「E・HERO サンライザー」を融合召喚できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=6639\">E・HERO エリクシーラー</a>」と「<a href=\"faq_search.action?ope=4&cid=6310\">E・HERO フェザーマン</a>」を融合素材として、「<a href=\"faq_search.action?ope=4&cid=14910\">E・HERO サンライザー</a>」を融合召喚する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=14910\">E・HERO サンライザー</a>」の融合素材には、『属性が異なる「HERO」モンスター×２』が必要となります。\n\n「<a href=\"faq_search.action?ope=4&cid=6432\">ミラクル・フュージョン</a>」の効果によって、墓地の\n光属性の「<a href=\"faq_search.action?ope=4&cid=6639\">E・HERO エリクシーラー</a>」と、墓地の風属性の「<a href=\"faq_search.action?ope=4&cid=6310\">E・HERO フェザーマン</a>」を融合素材として、「<a href=\"faq_search.action?ope=4&cid=14910\">E・HERO サンライザー</a>」を融合召喚する事はできますが、モンスターゾーンに表側表示で存在する「<a href=\"faq_search.action?ope=4&cid=6639\">E・HERO エリクシーラー</a>」は『このカードの属性は「風」「水」「炎」「地」としても扱う』モンスター効果を持ち、風属性としても扱われていますので、モンスターゾーンに表側表示で存在する「<a href=\"faq_search.action?ope=4&cid=6639\">E・HERO エリクシーラー</a>」を融合素材に含める場合には、「<a href=\"faq_search.action?ope=4&cid=6639\">E・HERO エリクシーラー</a>」と「<a href=\"faq_search.action?ope=4&cid=6310\">E・HERO フェザーマン</a>」の組み合わせで、「<a href=\"faq_search.action?ope=4&cid=14910\">E・HERO サンライザー</a>」を融合召喚する事はできません。",
-  "date": "2022-12-30"
+  "question": "「E・HERO エリクシーラー」と「E・HERO フェザーマン」を融合素材として、「E・HERO サンライザー」を融合召喚する事はできますか？",
+  "answer": "「E・HERO サンライザー」の融合素材には、『属性が異なる「HERO」モンスター×２』が必要となります。\n\n「ミラクル・フュージョン」の効果によって、墓地の\n光属性の「E・HERO エリクシーラー」と、墓地の風属性の「E・HERO フェザーマン」を融合素材として、「E・HERO サンライザー」を融合召喚する事はできますが、モンスターゾーンに表側表示で存在する「E・HERO エリクシーラー」は『このカードの属性は「風」「水」「炎」「地」としても扱う』モンスター効果を持ち、風属性としても扱われていますので、モンスターゾーンに表側表示で存在する「E・HERO エリクシーラー」を融合素材に含める場合には、「E・HERO エリクシーラー」と「E・HERO フェザーマン」の組み合わせで、「E・HERO サンライザー」を融合召喚する事はできません。",
+  "tags": [
+    "融合"
+  ],
+  "mentionedCards": [
+    6310,
+    6639,
+    14910
+  ]
 }

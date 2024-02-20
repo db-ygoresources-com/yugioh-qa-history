@@ -1,7 +1,14 @@
 {
   "fid": 22794,
+  "databaseDate": "2021-10-23",
   "title": "「究極融合」の効果で融合召喚する際に「沼地の魔神王」を融合素材にできますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=16856\">究極融合</a>」の効果によって、自分の手札・フィールド・墓地に存在する「<a href=\"faq_search.action?ope=4&cid=6044\">沼地の魔神王</a>」と「<a href=\"faq_search.action?ope=4&cid=4370\">カオス・ソルジャー</a>」を融合素材として、「<a href=\"faq_search.action?ope=4&cid=5501\">究極竜騎士</a>」を融合召喚できますか？\n\nまた、自分の手札・フィールド・墓地に存在する「<a href=\"faq_search.action?ope=4&cid=6044\">沼地の魔神王</a>」と「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」２体を素材として、「<a href=\"faq_search.action?ope=4&cid=4386\">青眼の究極竜</a>」を融合召喚できますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=16856\">究極融合</a>」の効果の処理時には、融合モンスターの融合素材に記載された「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」「<a href=\"faq_search.action?ope=4&cid=4386\">青眼の究極竜</a>」として、カード名が「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」「<a href=\"faq_search.action?ope=4&cid=4386\">青眼の究極竜</a>」であるモンスターを最低１体以上融合素材に含めなければなりません。\n\nしたがって、「<a href=\"faq_search.action?ope=4&cid=6044\">沼地の魔神王</a>」と「<a href=\"faq_search.action?ope=4&cid=4370\">カオス・ソルジャー</a>」を素材として、「<a href=\"faq_search.action?ope=4&cid=5501\">究極竜騎士</a>」を融合召喚することはできません。（「<a href=\"faq_search.action?ope=4&cid=6044\">沼地の魔神王</a>」のモンスター効果を適用して融合素材とする場合でも、「<a href=\"faq_search.action?ope=4&cid=6044\">沼地の魔神王</a>」のカード名が変わるわけではありません。）\n\nなお、「<a href=\"faq_search.action?ope=4&cid=6044\">沼地の魔神王</a>」と２体の「<a href=\"faq_search.action?ope=4&cid=4007\">青眼の白龍</a>」を素材として、「<a href=\"faq_search.action?ope=4&cid=4386\">青眼の究極竜</a>」を融合召喚することはできます。",
-  "date": "2021-10-23"
+  "question": "「究極融合」の効果によって、自分の手札・フィールド・墓地に存在する「沼地の魔神王」と「カオス・ソルジャー」を融合素材として、「究極竜騎士」を融合召喚できますか？\n\nまた、自分の手札・フィールド・墓地に存在する「沼地の魔神王」と「青眼の白龍」２体を素材として、「青眼の究極竜」を融合召喚できますか？",
+  "answer": "「究極融合」の効果の処理時には、融合モンスターの融合素材に記載された「青眼の白龍」「青眼の究極竜」として、カード名が「青眼の白龍」「青眼の究極竜」であるモンスターを最低１体以上融合素材に含めなければなりません。\n\nしたがって、「沼地の魔神王」と「カオス・ソルジャー」を素材として、「究極竜騎士」を融合召喚することはできません。（「沼地の魔神王」のモンスター効果を適用して融合素材とする場合でも、「沼地の魔神王」のカード名が変わるわけではありません。）\n\nなお、「沼地の魔神王」と２体の「青眼の白龍」を素材として、「青眼の究極竜」を融合召喚することはできます。",
+  "tags": [
+    "魔法"
+  ],
+  "mentionedCards": [
+    6044,
+    16856
+  ]
 }
