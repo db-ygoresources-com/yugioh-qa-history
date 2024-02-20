@@ -1,7 +1,14 @@
 {
   "fid": 11465,
+  "databaseDate": "2017-03-24",
   "title": "「コピー・ナイト」を「E・HERO アナザー・ネオス」が再度召喚した際に発動した場合、カード名はどのようになりますか？",
-  "question": "フィールド上に表側表示で存在する「<a href=\"faq_search.action?ope=4&cid=7195\">E・HERO アナザー・ネオス</a>」が召喚をもう一度行い、カード名が「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」となっている時に「<a href=\"faq_search.action?ope=4&cid=9784\">コピー・ナイト</a>」を発動した場合、フィールド上に特殊召喚した「<a href=\"faq_search.action?ope=4&cid=9784\">コピー・ナイト</a>」のカード名はどちらになりますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=7195\">E・HERO アナザー・ネオス</a>」の召喚をもう一度行った際に発動した「<a href=\"faq_search.action?ope=4&cid=9784\">コピー・ナイト</a>」がフィールド上へ特殊召喚した場合、その「<a href=\"faq_search.action?ope=4&cid=9784\">コピー・ナイト</a>」は、カード名を「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」として扱います。",
-  "date": "2017-03-24"
+  "question": "フィールド上に表側表示で存在する「E・HERO アナザー・ネオス」が召喚をもう一度行い、カード名が「E・HERO ネオス」となっている時に「コピー・ナイト」を発動した場合、フィールド上に特殊召喚した「コピー・ナイト」のカード名はどちらになりますか？",
+  "answer": "「E・HERO アナザー・ネオス」の召喚をもう一度行った際に発動した「コピー・ナイト」がフィールド上へ特殊召喚した場合、その「コピー・ナイト」は、カード名を「E・HERO ネオス」として扱います。",
+  "tags": [
+    "デュアル"
+  ],
+  "mentionedCards": [
+    7195,
+    9784
+  ]
 }

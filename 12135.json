@@ -1,7 +1,15 @@
 {
   "fid": 12135,
+  "databaseDate": "2017-03-24",
   "title": "「ヴェルズ・オピオン」が存在する時に「超融合」を発動する事はできますか？",
-  "question": "自分のエクストラデッキには「<a href=\"faq_search.action?ope=4&cid=9838\">E・HERO エスクリダオ</a>」のみが存在し、相手フィールド上には「<a href=\"faq_search.action?ope=4&cid=10006\">ヴェルズ・オピオン</a>」が存在する状況において、自分は「<a href=\"faq_search.action?ope=4&cid=7445\">超融合</a>」を発動して、「<a href=\"faq_search.action?ope=4&cid=10006\">ヴェルズ・オピオン</a>」を融合素材として使用し、レベル8の「<a href=\"faq_search.action?ope=4&cid=9838\">E・HERO エスクリダオ</a>」を特殊召喚する事はできますか？\nまた、自分フィールド上に「<a href=\"faq_search.action?ope=4&cid=4206\">プチリュウ</a>」、相手フィールド上に「<a href=\"faq_search.action?ope=4&cid=4163\">火炎草</a>」と「<a href=\"faq_search.action?ope=4&cid=10006\">ヴェルズ・オピオン</a>」とドラゴン族モンスター3体が存在する時に「<a href=\"faq_search.action?ope=4&cid=7445\">超融合</a>」を発動した場合、自分は融合素材が「<a href=\"faq_search.action?ope=4&cid=4163\">火炎草</a>」と「<a href=\"faq_search.action?ope=4&cid=4206\">プチリュウ</a>」である「<a href=\"faq_search.action?ope=4&cid=4174\">暗黒火炎龍</a>」しか融合召喚できませんか？\nそれとも、「<a href=\"faq_search.action?ope=4&cid=10006\">ヴェルズ・オピオン</a>」を含むドラゴン族モンスター5体を墓地へ送り「<a href=\"faq_search.action?ope=4&cid=5502\">F・G・D</a>」を特殊召喚できますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=10006\">ヴェルズ・オピオン</a>」の効果によって、レベル5以上のモンスターを特殊召喚する事ができない状態であるため、自分のエクストラデッキに「<a href=\"faq_search.action?ope=4&cid=9838\">E・HERO エスクリダオ</a>」のみが存在し、相手フィールド上に「<a href=\"faq_search.action?ope=4&cid=10006\">ヴェルズ・オピオン</a>」が存在する状況において、自分は「<a href=\"faq_search.action?ope=4&cid=7445\">超融合</a>」を発動する事ができません。\n自分フィールド上に「<a href=\"faq_search.action?ope=4&cid=4206\">プチリュウ</a>」、相手フィールド上に「<a href=\"faq_search.action?ope=4&cid=4163\">火炎草</a>」と「<a href=\"faq_search.action?ope=4&cid=10006\">ヴェルズ・オピオン</a>」とドラゴン族モンスター3体が存在する時に「<a href=\"faq_search.action?ope=4&cid=7445\">超融合</a>」を発動した場合、特殊召喚できるのは「<a href=\"faq_search.action?ope=4&cid=4206\">プチリュウ</a>」と「<a href=\"faq_search.action?ope=4&cid=4163\">火炎草</a>」を融合素材としての「<a href=\"faq_search.action?ope=4&cid=4174\">暗黒火炎龍</a>」のみとなり、レベル5以上の「<a href=\"faq_search.action?ope=4&cid=5502\">F・G・D</a>」を特殊召喚する事はできません。",
-  "date": "2017-03-24"
+  "question": "自分のエクストラデッキには「E・HERO エスクリダオ」のみが存在し、相手フィールド上には「ヴェルズ・オピオン」が存在する状況において、自分は「超融合」を発動して、「ヴェルズ・オピオン」を融合素材として使用し、レベル8の「E・HERO エスクリダオ」を特殊召喚する事はできますか？\nまた、自分フィールド上に「プチリュウ」、相手フィールド上に「火炎草」と「ヴェルズ・オピオン」とドラゴン族モンスター3体が存在する時に「超融合」を発動した場合、自分は融合素材が「火炎草」と「プチリュウ」である「暗黒火炎龍」しか融合召喚できませんか？\nそれとも、「ヴェルズ・オピオン」を含むドラゴン族モンスター5体を墓地へ送り「F・G・D」を特殊召喚できますか？",
+  "answer": "「ヴェルズ・オピオン」の効果によって、レベル5以上のモンスターを特殊召喚する事ができない状態であるため、自分のエクストラデッキに「E・HERO エスクリダオ」のみが存在し、相手フィールド上に「ヴェルズ・オピオン」が存在する状況において、自分は「超融合」を発動する事ができません。\n自分フィールド上に「プチリュウ」、相手フィールド上に「火炎草」と「ヴェルズ・オピオン」とドラゴン族モンスター3体が存在する時に「超融合」を発動した場合、特殊召喚できるのは「プチリュウ」と「火炎草」を融合素材としての「暗黒火炎龍」のみとなり、レベル5以上の「F・G・D」を特殊召喚する事はできません。",
+  "tags": [
+    "融合",
+    "エクシーズ"
+  ],
+  "mentionedCards": [
+    7445,
+    10006
+  ]
 }

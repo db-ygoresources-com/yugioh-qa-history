@@ -1,7 +1,14 @@
 {
   "fid": 12124,
+  "databaseDate": "2017-03-24",
   "title": "「甲虫装機 ギガマンティス」が「サクリファイス」等に装備されている場合、効果は適用されますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=4737\">サクリファイス</a>」の効果によって、「<a href=\"faq_search.action?ope=4&cid=9895\">甲虫装機 ギガマンティス</a>」が「<a href=\"faq_search.action?ope=4&cid=4737\">サクリファイス</a>」に装備されている場合、攻撃力はどのように変化しますか？\nまた、「<a href=\"faq_search.action?ope=4&cid=4737\">サクリファイス</a>」に装備されている「<a href=\"faq_search.action?ope=4&cid=9895\">甲虫装機 ギガマンティス</a>」が墓地へ送られた場合、『自分の墓地から「<a href=\"faq_search.action?ope=4&cid=9895\">甲虫装機 ギガマンティス</a>」以外の「甲虫装機」と名のついたモンスター１体を選択して特殊召喚できる』効果を発動する事はできますか？\nまた、「<a href=\"faq_search.action?ope=4&cid=7096\">D-HERO Bloo-D</a>」の効果によって「<a href=\"faq_search.action?ope=4&cid=9895\">甲虫装機 ギガマンティス</a>」を装備した場合、「<a href=\"faq_search.action?ope=4&cid=7096\">D-HERO Bloo-D</a>」の攻撃力はどのように変化しますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=4737\">サクリファイス</a>」の効果によって、「<a href=\"faq_search.action?ope=4&cid=4737\">サクリファイス</a>」に「<a href=\"faq_search.action?ope=4&cid=9895\">甲虫装機 ギガマンティス</a>」が装備されている場合、「<a href=\"faq_search.action?ope=4&cid=9895\">甲虫装機 ギガマンティス</a>」の効果はアップする効果ではない為、結果的に「<a href=\"faq_search.action?ope=4&cid=4737\">サクリファイス</a>」の攻撃力は2400となります。\nまた、「<a href=\"faq_search.action?ope=4&cid=4737\">サクリファイス</a>」に装備されている「<a href=\"faq_search.action?ope=4&cid=9895\">甲虫装機 ギガマンティス</a>」が墓地へ送られた場合、『自分の墓地から「<a href=\"faq_search.action?ope=4&cid=9895\">甲虫装機 ギガマンティス</a>」以外の「甲虫装機」と名のついたモンスター１体を選択して特殊召喚できる』効果を発動する事はできます。\nまた、「<a href=\"faq_search.action?ope=4&cid=7096\">D-HERO Bloo-D</a>」の効果によって「<a href=\"faq_search.action?ope=4&cid=9895\">甲虫装機 ギガマンティス</a>」を装備した場合は、「<a href=\"faq_search.action?ope=4&cid=9895\">甲虫装機 ギガマンティス</a>」の効果が適用されて「<a href=\"faq_search.action?ope=4&cid=7096\">D-HERO Bloo-D</a>」の元々の攻撃力が2400になった後、「<a href=\"faq_search.action?ope=4&cid=7096\">D-HERO Bloo-D</a>」の効果によって、『装備したモンスターの攻撃力の半分の数値分アップ』するため、結果的に「<a href=\"faq_search.action?ope=4&cid=7096\">D-HERO Bloo-D</a>」の攻撃力は3600となります。",
-  "date": "2017-03-24"
+  "question": "「サクリファイス」の効果によって、「甲虫装機 ギガマンティス」が「サクリファイス」に装備されている場合、攻撃力はどのように変化しますか？\nまた、「サクリファイス」に装備されている「甲虫装機 ギガマンティス」が墓地へ送られた場合、『自分の墓地から「甲虫装機 ギガマンティス」以外の「甲虫装機」と名のついたモンスター１体を選択して特殊召喚できる』効果を発動する事はできますか？\nまた、「D-HERO Bloo-D」の効果によって「甲虫装機 ギガマンティス」を装備した場合、「D-HERO Bloo-D」の攻撃力はどのように変化しますか？",
+  "answer": "「サクリファイス」の効果によって、「サクリファイス」に「甲虫装機 ギガマンティス」が装備されている場合、「甲虫装機 ギガマンティス」の効果はアップする効果ではない為、結果的に「サクリファイス」の攻撃力は2400となります。\nまた、「サクリファイス」に装備されている「甲虫装機 ギガマンティス」が墓地へ送られた場合、『自分の墓地から「甲虫装機 ギガマンティス」以外の「甲虫装機」と名のついたモンスター１体を選択して特殊召喚できる』効果を発動する事はできます。\nまた、「D-HERO Bloo-D」の効果によって「甲虫装機 ギガマンティス」を装備した場合は、「甲虫装機 ギガマンティス」の効果が適用されて「D-HERO Bloo-D」の元々の攻撃力が2400になった後、「D-HERO Bloo-D」の効果によって、『装備したモンスターの攻撃力の半分の数値分アップ』するため、結果的に「D-HERO Bloo-D」の攻撃力は3600となります。",
+  "tags": [
+    "モンスター"
+  ],
+  "mentionedCards": [
+    4737,
+    9895
+  ]
 }

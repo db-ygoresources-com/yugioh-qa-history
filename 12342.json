@@ -1,7 +1,14 @@
 {
   "fid": 12342,
+  "databaseDate": "2017-03-24",
   "title": "「ミラクル・コンタクト」で「レインボー・ネオス」を特殊召喚できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」を融合素材とする「<a href=\"faq_search.action?ope=4&cid=7443\">レインボー・ネオス</a>」を、「<a href=\"faq_search.action?ope=4&cid=10213\">ミラクル・コンタクト</a>」の効果によって特殊召喚する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=7443\">レインボー・ネオス</a>」は、融合素材として「<a href=\"faq_search.action?ope=4&cid=6653\">E・HERO ネオス</a>」が含まれていますが、カード名に「E・HERO」が含まれていません。\nしたがって、「<a href=\"faq_search.action?ope=4&cid=10213\">ミラクル・コンタクト</a>」の効果によって「<a href=\"faq_search.action?ope=4&cid=7443\">レインボー・ネオス</a>」を特殊召喚する事はできません。",
-  "date": "2017-03-24"
+  "question": "「E・HERO ネオス」を融合素材とする「レインボー・ネオス」を、「ミラクル・コンタクト」の効果によって特殊召喚する事はできますか？",
+  "answer": "「レインボー・ネオス」は、融合素材として「E・HERO ネオス」が含まれていますが、カード名に「E・HERO」が含まれていません。\nしたがって、「ミラクル・コンタクト」の効果によって「レインボー・ネオス」を特殊召喚する事はできません。",
+  "tags": [
+    "融合"
+  ],
+  "mentionedCards": [
+    7443,
+    10213
+  ]
 }

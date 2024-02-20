@@ -1,7 +1,14 @@
 {
   "fid": 12562,
+  "databaseDate": "2017-03-24",
   "title": "融合素材として使用した「E・HERO プリズマー」等を、「融合回収」の効果で手札に加える事はできますか？",
-  "question": "自身の効果でカード名が変化している状態の「<a href=\"faq_search.action?ope=4&cid=7491\">E・HERO プリズマー</a>」や「<a href=\"faq_search.action?ope=4&cid=7351\">ファントム・オブ・カオス</a>」等を融合素材として使用しました。\nその融合素材として使用した「<a href=\"faq_search.action?ope=4&cid=7491\">E・HERO プリズマー</a>」等を、「<a href=\"faq_search.action?ope=4&cid=6431\">融合回収</a>」の効果によって手札に加える事はできますか？\n\nまた、同様の状況で墓地に送られた「<a href=\"faq_search.action?ope=4&cid=7491\">E・HERO プリズマー</a>」等を、「<a href=\"faq_search.action?ope=4&cid=6513\">ブランチ</a>」の効果によって特殊召喚する事はできますか？",
-  "answer": "自身の効果でカード名を変化している状態の「<a href=\"faq_search.action?ope=4&cid=7491\">E・HERO プリズマー</a>」や「<a href=\"faq_search.action?ope=4&cid=7351\">ファントム・オブ・カオス</a>」等を融合素材として使用している場合でも、その「<a href=\"faq_search.action?ope=4&cid=7491\">E・HERO プリズマー</a>」等を「<a href=\"faq_search.action?ope=4&cid=6431\">融合回収</a>」の効果によって手札に加える事はできます。\n\nまた、「<a href=\"faq_search.action?ope=4&cid=6513\">ブランチ</a>」の効果によって、その「<a href=\"faq_search.action?ope=4&cid=7491\">E・HERO プリズマー</a>」等を特殊召喚する事はできます。",
-  "date": "2017-03-24"
+  "question": "自身の効果でカード名が変化している状態の「E・HERO プリズマー」や「ファントム・オブ・カオス」等を融合素材として使用しました。\nその融合素材として使用した「E・HERO プリズマー」等を、「融合回収」の効果によって手札に加える事はできますか？\n\nまた、同様の状況で墓地に送られた「E・HERO プリズマー」等を、「ブランチ」の効果によって特殊召喚する事はできますか？",
+  "answer": "自身の効果でカード名を変化している状態の「E・HERO プリズマー」や「ファントム・オブ・カオス」等を融合素材として使用している場合でも、その「E・HERO プリズマー」等を「融合回収」の効果によって手札に加える事はできます。\n\nまた、「ブランチ」の効果によって、その「E・HERO プリズマー」等を特殊召喚する事はできます。",
+  "tags": [
+    "融合"
+  ],
+  "mentionedCards": [
+    6431,
+    7491
+  ]
 }
