@@ -1,7 +1,13 @@
 {
   "fid": 16780,
+  "databaseDate": "2017-03-24",
   "title": "「PSYフレームギア・α」等をペンデュラム召喚できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=12068\">PSYフレームギア・α</a>」、「<a href=\"faq_search.action?ope=4&cid=12069\">PSYフレームギア・β</a>」、「<a href=\"faq_search.action?ope=4&cid=12070\">PSYフレームギア・γ</a>」、「<a href=\"faq_search.action?ope=4&cid=12071\">PSYフレームギア・δ</a>」、「<a href=\"faq_search.action?ope=4&cid=12072\">PSYフレームギア・ε</a>」をペンデュラム召喚によって特殊召喚できますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=12068\">PSYフレームギア・α</a>」等はカードの効果によってのみ特殊召喚を行う事ができる特殊召喚モンスターです。\n\nペンデュラム召喚はカードの効果によって行う特殊召喚ではありませんので、「<a href=\"faq_search.action?ope=4&cid=12068\">PSYフレームギア・α</a>」等をペンデュラム召喚によって特殊召喚する事はできません。",
-  "date": "2017-03-24"
+  "question": "「PSYフレームギア・α」、「PSYフレームギア・β」、「PSYフレームギア・γ」、「PSYフレームギア・δ」、「PSYフレームギア・ε」をペンデュラム召喚によって特殊召喚できますか？",
+  "answer": "「PSYフレームギア・α」等はカードの効果によってのみ特殊召喚を行う事ができる特殊召喚モンスターです。\n\nペンデュラム召喚はカードの効果によって行う特殊召喚ではありませんので、「PSYフレームギア・α」等をペンデュラム召喚によって特殊召喚する事はできません。",
+  "tags": [
+    "モンスター"
+  ],
+  "mentionedCards": [
+    12068
+  ]
 }
