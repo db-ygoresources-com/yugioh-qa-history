@@ -1,7 +1,15 @@
 {
   "fid": 20364,
+  "databaseDate": "2017-03-24",
   "title": "自分の墓地の「Dragoon D-END」と「D-HERO ディストピアガイ」をエクストラデッキに戻して、「HEROの遺産」を発動できますか？",
-  "question": "自分の墓地の「<a href=\"faq_search.action?ope=4&cid=7615\">Dragoon D-END</a>」と「<a href=\"faq_search.action?ope=4&cid=12705\">D-HERO ディストピアガイ</a>」をエクストラデッキに戻して、「<a href=\"faq_search.action?ope=4&cid=8150\">HEROの遺産</a>」の『①：「HERO」モンスターを融合素材とする融合モンスター２体を自分の墓地からエクストラデッキに戻して発動できる。自分はデッキから３枚ドローする』効果を発動する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=7615\">Dragoon D-END</a>」と「<a href=\"faq_search.action?ope=4&cid=12705\">D-HERO ディストピアガイ</a>」はどちらも、「HERO」と名のついたモンスターを融合素材とする融合モンスターとなります。\n\nしたがって、その2体をエクストラデッキに戻して、「<a href=\"faq_search.action?ope=4&cid=8150\">HEROの遺産</a>」を発動する事ができます。",
-  "date": "2017-03-24"
+  "question": "自分の墓地の「Dragoon D-END」と「D-HERO ディストピアガイ」をエクストラデッキに戻して、「HEROの遺産」の『①：「HERO」モンスターを融合素材とする融合モンスター２体を自分の墓地からエクストラデッキに戻して発動できる。自分はデッキから３枚ドローする』効果を発動する事はできますか？",
+  "answer": "「Dragoon D-END」と「D-HERO ディストピアガイ」はどちらも、「HERO」と名のついたモンスターを融合素材とする融合モンスターとなります。\n\nしたがって、その2体をエクストラデッキに戻して、「HEROの遺産」を発動する事ができます。",
+  "tags": [
+    "融合"
+  ],
+  "mentionedCards": [
+    7615,
+    8150,
+    12705
+  ]
 }

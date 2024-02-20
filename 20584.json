@@ -1,7 +1,19 @@
 {
   "fid": 20584,
+  "databaseDate": "2017-03-24",
   "title": "「融合」の効果によって、「覇王龍ズァーク」を融合召喚する際に、「虹彩の魔術師」、「黒牙の魔術師」、「白翼の魔術師」、「紫毒の魔術師」を融合素材にできますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=4837\">融合</a>」の効果によって「<a href=\"faq_search.action?ope=4&cid=12953\">覇王龍ズァーク</a>」を融合召喚する際に、「<a href=\"faq_search.action?ope=4&cid=12908\">虹彩の魔術師</a>」、「<a href=\"faq_search.action?ope=4&cid=12909\">黒牙の魔術師</a>」、「<a href=\"faq_search.action?ope=4&cid=12910\">白翼の魔術師</a>」、「<a href=\"faq_search.action?ope=4&cid=12911\">紫毒の魔術師</a>」を融合素材として選ぶ事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=12953\">覇王龍ズァーク</a>」は、融合素材として、『ドラゴン族の融合・S・X・Pモンスター１体ずつ合計４体』が必要なモンスターとなります。\n\n「<a href=\"faq_search.action?ope=4&cid=12908\">虹彩の魔術師</a>」、「<a href=\"faq_search.action?ope=4&cid=12909\">黒牙の魔術師</a>」、「<a href=\"faq_search.action?ope=4&cid=12910\">白翼の魔術師</a>」、「<a href=\"faq_search.action?ope=4&cid=12911\">紫毒の魔術師</a>」はいずれもペンデュラムモンスターですが、融合・シンクロ・エクシーズモンスターとして扱われる事はありません。\n\nしたがって、「<a href=\"faq_search.action?ope=4&cid=4837\">融合</a>」の効果によって「<a href=\"faq_search.action?ope=4&cid=12953\">覇王龍ズァーク</a>」を融合召喚する際に、「<a href=\"faq_search.action?ope=4&cid=12908\">虹彩の魔術師</a>」、「<a href=\"faq_search.action?ope=4&cid=12909\">黒牙の魔術師</a>」、「<a href=\"faq_search.action?ope=4&cid=12910\">白翼の魔術師</a>」、「<a href=\"faq_search.action?ope=4&cid=12911\">紫毒の魔術師</a>」を融合素材として選ぶ事はできません。",
-  "date": "2017-03-24"
+  "question": "「融合」の効果によって「覇王龍ズァーク」を融合召喚する際に、「虹彩の魔術師」、「黒牙の魔術師」、「白翼の魔術師」、「紫毒の魔術師」を融合素材として選ぶ事はできますか？",
+  "answer": "「覇王龍ズァーク」は、融合素材として、『ドラゴン族の融合・S・X・Pモンスター１体ずつ合計４体』が必要なモンスターとなります。\n\n「虹彩の魔術師」、「黒牙の魔術師」、「白翼の魔術師」、「紫毒の魔術師」はいずれもペンデュラムモンスターですが、融合・シンクロ・エクシーズモンスターとして扱われる事はありません。\n\nしたがって、「融合」の効果によって「覇王龍ズァーク」を融合召喚する際に、「虹彩の魔術師」、「黒牙の魔術師」、「白翼の魔術師」、「紫毒の魔術師」を融合素材として選ぶ事はできません。",
+  "tags": [
+    "融合",
+    "ペンデュラム"
+  ],
+  "mentionedCards": [
+    4837,
+    12908,
+    12909,
+    12910,
+    12911,
+    12953
+  ]
 }
