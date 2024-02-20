@@ -1,7 +1,14 @@
 {
   "fid": 14828,
+  "databaseDate": "2017-03-24",
   "title": "相手の墓地の「ピースの輪」を対象として「二重魔法」を発動できますか？",
-  "question": "相手の墓地の「<a href=\"faq_search.action?ope=4&cid=11671\">ピースの輪</a>」を対象として「<a href=\"faq_search.action?ope=4&cid=5629\">二重魔法</a>」を発動する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=5629\">二重魔法</a>」の対象として、「<a href=\"faq_search.action?ope=4&cid=11671\">ピースの輪</a>」を選択する事はできません。",
-  "date": "2017-03-24"
+  "question": "相手の墓地の「ピースの輪」を対象として「二重魔法」を発動する事はできますか？",
+  "answer": "「二重魔法」の対象として、「ピースの輪」を選択する事はできません。",
+  "tags": [
+    "魔法"
+  ],
+  "mentionedCards": [
+    5629,
+    11671
+  ]
 }

@@ -1,7 +1,14 @@
 {
   "fid": 14074,
+  "databaseDate": "2017-03-24",
   "title": "「催眠術」の発動にチェーンして「精霊の鏡」を発動できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=4814\">催眠術</a>」の発動にチェーンして「<a href=\"faq_search.action?ope=4&cid=4826\">精霊の鏡</a>」を発動する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=4814\">催眠術</a>」の発動にチェーンして「<a href=\"faq_search.action?ope=4&cid=4826\">精霊の鏡</a>」を発動する事はできません。",
-  "date": "2017-03-24"
+  "question": "「催眠術」の発動にチェーンして「精霊の鏡」を発動する事はできますか？",
+  "answer": "「催眠術」の発動にチェーンして「精霊の鏡」を発動する事はできません。",
+  "tags": [
+    "チェーン"
+  ],
+  "mentionedCards": [
+    4814,
+    4826
+  ]
 }
