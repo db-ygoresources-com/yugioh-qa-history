@@ -1,7 +1,14 @@
 {
   "fid": 22119,
+  "databaseDate": "2022-12-30",
   "title": "ペンデュラムゾーンの「スモウ魂 YOKO－ZUNA」と「カラテ魂 KURO－OBI」のそれぞれのペンデュラム効果はどのように発動しますか？",
-  "question": "自分のペンデュラムゾーンに「<a href=\"faq_search.action?ope=4&cid=13532\">スモウ魂 YOKO－ZUNA</a>」と「<a href=\"faq_search.action?ope=4&cid=13533\">カラテ魂 KURO－OBI</a>」が存在しています。\n\nこの状況で、自分が「<a href=\"faq_search.action?ope=4&cid=13702\">ケンドウ魂 KAI－DEN</a>」のペンデュラム召喚に成功しました。\n\nこの場合、「<a href=\"faq_search.action?ope=4&cid=13532\">スモウ魂 YOKO－ZUNA</a>」と「<a href=\"faq_search.action?ope=4&cid=13533\">カラテ魂 KURO－OBI</a>」のそれぞれの、『①：フィールドにモンスターがP召喚された場合に発動する。Pゾーンのこのカードを持ち主の手札に戻す』ペンデュラム効果はどのように発動しますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=13532\">スモウ魂 YOKO－ZUNA</a>」や「<a href=\"faq_search.action?ope=4&cid=13533\">カラテ魂 KURO－OBI</a>」の『①：フィールドにモンスターがP召喚された場合に発動する。Pゾーンのこのカードを持ち主の手札に戻す』ペンデュラム効果は、自分または相手がペンデュラム召喚に成功した場合に必ず発動する効果です。\n\n質問の状況の場合、「<a href=\"faq_search.action?ope=4&cid=13532\">スモウ魂 YOKO－ZUNA</a>」と「<a href=\"faq_search.action?ope=4&cid=13533\">カラテ魂 KURO－OBI</a>」のペンデュラム効果がチェーンにて発動する事になります。\n（どちらがチェーン1として発動するかは、自分が選ぶ事ができます。）",
-  "date": "2022-12-30"
+  "question": "自分のペンデュラムゾーンに「スモウ魂 YOKO－ZUNA」と「カラテ魂 KURO－OBI」が存在しています。\n\nこの状況で、自分が「ケンドウ魂 KAI－DEN」のペンデュラム召喚に成功しました。\n\nこの場合、「スモウ魂 YOKO－ZUNA」と「カラテ魂 KURO－OBI」のそれぞれの、『①：フィールドにモンスターがP召喚された場合に発動する。Pゾーンのこのカードを持ち主の手札に戻す』ペンデュラム効果はどのように発動しますか？",
+  "answer": "「スモウ魂 YOKO－ZUNA」や「カラテ魂 KURO－OBI」の『①：フィールドにモンスターがP召喚された場合に発動する。Pゾーンのこのカードを持ち主の手札に戻す』ペンデュラム効果は、自分または相手がペンデュラム召喚に成功した場合に必ず発動する効果です。\n\n質問の状況の場合、「スモウ魂 YOKO－ZUNA」と「カラテ魂 KURO－OBI」のペンデュラム効果がチェーンにて発動する事になります。\n（どちらがチェーン1として発動するかは、自分が選ぶ事ができます。）",
+  "tags": [
+    "ペンデュラム"
+  ],
+  "mentionedCards": [
+    13532,
+    13533
+  ]
 }
