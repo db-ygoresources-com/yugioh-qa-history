@@ -1,7 +1,13 @@
 {
   "fid": 15871,
+  "databaseDate": "2019-02-18",
   "title": "「Sin Selector」を発動する際に除外したモンスターが処理時に除外されていない場合、処理はどうなりますか？",
-  "question": "自分の墓地に存在する「<a href=\"faq_search.action?ope=4&cid=14379\">Sin パラドクスギア</a>」と「<a href=\"faq_search.action?ope=4&cid=9042\">Sin トゥルース・ドラゴン</a>」を除外して、「<a href=\"faq_search.action?ope=4&cid=14372\">Sin Selector</a>」の『①：自分の墓地から「Sin」カード２枚を除外して発動できる。除外したカードとカード名が異なる「<a href=\"faq_search.action?ope=4&cid=14372\">Sin Selector</a>」以外の「Sin」カード２枚をデッキから手札に加える（同名カードは１枚まで）』効果を発動しました。\n\nその発動にチェーンして、「<a href=\"faq_search.action?ope=4&cid=6941\">異次元からの埋葬</a>」を発動し、除外されたその「<a href=\"faq_search.action?ope=4&cid=14379\">Sin パラドクスギア</a>」と「<a href=\"faq_search.action?ope=4&cid=9042\">Sin トゥルース・ドラゴン</a>」を墓地に戻した場合、処理はどうなりますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=14372\">Sin Selector</a>」を発動する際に、コストとして除外したモンスターが処理時に除外されていない場合でも、効果処理は通常通り適用されます。\n\n質問の状況の場合、「<a href=\"faq_search.action?ope=4&cid=14379\">Sin パラドクスギア</a>」と「<a href=\"faq_search.action?ope=4&cid=9042\">Sin トゥルース・ドラゴン</a>」を除外して発動していますので、「<a href=\"faq_search.action?ope=4&cid=14379\">Sin パラドクスギア</a>」、「<a href=\"faq_search.action?ope=4&cid=9042\">Sin トゥルース・ドラゴン</a>」、「<a href=\"faq_search.action?ope=4&cid=14372\">Sin Selector</a>」以外の「Sin」と名のついたカードを2枚（例えば、「<a href=\"faq_search.action?ope=4&cid=9043\">Sin パラレルギア</a>」と「<a href=\"faq_search.action?ope=4&cid=8864\">Sin 青眼の白龍</a>」）選んで手札に加える事になります。",
-  "date": "2019-02-18"
+  "question": "自分の墓地に存在する「Sin パラドクスギア」と「Sin トゥルース・ドラゴン」を除外して、「Sin Selector」の『①：自分の墓地から「Sin」カード２枚を除外して発動できる。除外したカードとカード名が異なる「Sin Selector」以外の「Sin」カード２枚をデッキから手札に加える（同名カードは１枚まで）』効果を発動しました。\n\nその発動にチェーンして、「異次元からの埋葬」を発動し、除外されたその「Sin パラドクスギア」と「Sin トゥルース・ドラゴン」を墓地に戻した場合、処理はどうなりますか？",
+  "answer": "「Sin Selector」を発動する際に、コストとして除外したモンスターが処理時に除外されていない場合でも、効果処理は通常通り適用されます。\n\n質問の状況の場合、「Sin パラドクスギア」と「Sin トゥルース・ドラゴン」を除外して発動していますので、「Sin パラドクスギア」、「Sin トゥルース・ドラゴン」、「Sin Selector」以外の「Sin」と名のついたカードを2枚（例えば、「Sin パラレルギア」と「Sin 青眼の白龍」）選んで手札に加える事になります。",
+  "tags": [
+    "チェーン"
+  ],
+  "mentionedCards": [
+    14372
+  ]
 }
