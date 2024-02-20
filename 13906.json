@@ -1,7 +1,14 @@
 {
   "fid": 13906,
+  "databaseDate": "2017-03-24",
   "title": "「聖霊獣騎 ペトルフィン」の特殊召喚を「神の宣告」で無効にできますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=11499\">聖霊獣騎 ペトルフィン</a>」の特殊召喚を「<a href=\"faq_search.action?ope=4&cid=4861\">神の宣告</a>」で無効にできますか？",
+  "question": "「聖霊獣騎 ペトルフィン」の特殊召喚を「神の宣告」で無効にできますか？",
   "answer": "できます。",
-  "date": "2017-03-24"
+  "tags": [
+    "融合"
+  ],
+  "mentionedCards": [
+    4861,
+    11499
+  ]
 }

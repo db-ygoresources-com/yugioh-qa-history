@@ -1,7 +1,16 @@
 {
   "fid": 13300,
+  "databaseDate": "2017-03-24",
   "title": "「E・HERO ノヴァマスター」が戦闘を行い、リバースした相手の「人喰い虫」の効果で破壊される場合、ドローする効果は発動しますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=9439\">E・HERO ノヴァマスター</a>」が相手の裏側守備表示の「<a href=\"faq_search.action?ope=4&cid=4507\">人喰い虫</a>」を攻撃し、戦闘で破壊しました。\n\nそのダメージ計算後に「<a href=\"faq_search.action?ope=4&cid=4507\">人喰い虫</a>」の効果が発動し、「<a href=\"faq_search.action?ope=4&cid=9439\">E・HERO ノヴァマスター</a>」が破壊されている場合、「<a href=\"faq_search.action?ope=4&cid=9439\">E・HERO ノヴァマスター</a>」の効果は発動しますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=9439\">E・HERO ノヴァマスター</a>」の効果はダメージステップ終了時に発動する効果になります。\n\n「<a href=\"faq_search.action?ope=4&cid=9439\">E・HERO ノヴァマスター</a>」が「<a href=\"faq_search.action?ope=4&cid=4507\">人喰い虫</a>」の効果によってダメージ計算後の時点で破壊されている場合には、その「<a href=\"faq_search.action?ope=4&cid=9439\">E・HERO ノヴァマスター</a>」の効果は発動しません。",
-  "date": "2017-03-24"
+  "question": "「E・HERO ノヴァマスター」が相手の裏側守備表示の「人喰い虫」を攻撃し、戦闘で破壊しました。\n\nそのダメージ計算後に「人喰い虫」の効果が発動し、「E・HERO ノヴァマスター」が破壊されている場合、「E・HERO ノヴァマスター」の効果は発動しますか？",
+  "answer": "「E・HERO ノヴァマスター」の効果はダメージステップ終了時に発動する効果になります。\n\n「E・HERO ノヴァマスター」が「人喰い虫」の効果によってダメージ計算後の時点で破壊されている場合には、その「E・HERO ノヴァマスター」の効果は発動しません。",
+  "tags": [
+    "ダメージステップ",
+    "リバース",
+    "融合"
+  ],
+  "mentionedCards": [
+    4507,
+    9439
+  ]
 }

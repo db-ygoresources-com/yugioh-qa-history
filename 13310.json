@@ -1,7 +1,14 @@
 {
   "fid": 13310,
+  "databaseDate": "2017-03-24",
   "title": "「C・HERO カオス」を「ミラクル・フュージョン」の効果によって融合召喚できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=11310\">C・HERO カオス</a>」を「<a href=\"faq_search.action?ope=4&cid=6432\">ミラクル・フュージョン</a>」の効果によって融合召喚する事はできますか？\n\nまた、「<a href=\"faq_search.action?ope=4&cid=6432\">ミラクル・フュージョン</a>」の効果によって、自分の墓地の「<a href=\"faq_search.action?ope=4&cid=11310\">C・HERO カオス</a>」と地属性モンスターを除外して、「<a href=\"faq_search.action?ope=4&cid=8122\">E・HERO ガイア</a>」を融合召喚する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=11310\">C・HERO カオス</a>」はルール上、「E・HERO」と名のついたモンスターとしても扱われるモンスターですので、「<a href=\"faq_search.action?ope=4&cid=6432\">ミラクル・フュージョン</a>」の効果によって、エクストラデッキから「<a href=\"faq_search.action?ope=4&cid=11310\">C・HERO カオス</a>」を融合召喚する事はできます。\n\nまた、「<a href=\"faq_search.action?ope=4&cid=6432\">ミラクル・フュージョン</a>」の効果処理によって、自分の墓地の「<a href=\"faq_search.action?ope=4&cid=11310\">C・HERO カオス</a>」と、自分の墓地の地属性モンスターを除外して「<a href=\"faq_search.action?ope=4&cid=8122\">E・HERO ガイア</a>」を融合召喚する事もできます。",
-  "date": "2017-03-24"
+  "question": "「C・HERO カオス」を「ミラクル・フュージョン」の効果によって融合召喚する事はできますか？\n\nまた、「ミラクル・フュージョン」の効果によって、自分の墓地の「C・HERO カオス」と地属性モンスターを除外して、「E・HERO ガイア」を融合召喚する事はできますか？",
+  "answer": "「C・HERO カオス」はルール上、「E・HERO」と名のついたモンスターとしても扱われるモンスターですので、「ミラクル・フュージョン」の効果によって、エクストラデッキから「C・HERO カオス」を融合召喚する事はできます。\n\nまた、「ミラクル・フュージョン」の効果処理によって、自分の墓地の「C・HERO カオス」と、自分の墓地の地属性モンスターを除外して「E・HERO ガイア」を融合召喚する事もできます。",
+  "tags": [
+    "融合"
+  ],
+  "mentionedCards": [
+    6432,
+    11310
+  ]
 }

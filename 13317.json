@@ -1,7 +1,14 @@
 {
   "fid": 13317,
+  "databaseDate": "2017-03-24",
   "title": "「E・HERO Core」の攻撃を行い、その戦闘によって、「E・HERO Core」自身が破壊され墓地へ送られている場合、バトルフェイズ終了時に「E・HERO Core」の効果を発動できますか？",
-  "question": "「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」が攻撃を行い、その戦闘の結果、「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」自身が戦闘で破壊され墓地へ送られている場合、その「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」の『②：このカードが戦闘を行ったバトルフェイズ終了時、フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する』効果を発動する事はできますか？",
-  "answer": "「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」の『②：このカードが戦闘を行ったバトルフェイズ終了時、フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する』効果は、その「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」自身がモンスターゾーンに存在していなければ、効果の発動を行う事はできません。\n\nしたがって、「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」が戦闘を行い、その結果、「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」自身が戦闘によって破壊され墓地へ送られている場合には、その「<a href=\"faq_search.action?ope=4&cid=11314\">E・HERO Core</a>」の効果をバトルフェイズ終了時に発動する事はできません。",
-  "date": "2017-03-24"
+  "question": "「E・HERO Core」が攻撃を行い、その戦闘の結果、「E・HERO Core」自身が戦闘で破壊され墓地へ送られている場合、その「E・HERO Core」の『②：このカードが戦闘を行ったバトルフェイズ終了時、フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する』効果を発動する事はできますか？",
+  "answer": "「E・HERO Core」の『②：このカードが戦闘を行ったバトルフェイズ終了時、フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する』効果は、その「E・HERO Core」自身がモンスターゾーンに存在していなければ、効果の発動を行う事はできません。\n\nしたがって、「E・HERO Core」が戦闘を行い、その結果、「E・HERO Core」自身が戦闘によって破壊され墓地へ送られている場合には、その「E・HERO Core」の効果をバトルフェイズ終了時に発動する事はできません。",
+  "tags": [
+    "ダメージステップ",
+    "融合"
+  ],
+  "mentionedCards": [
+    11314
+  ]
 }
