@@ -8,5 +8,8 @@
     "チェーン",
     "特殊召喚モンスター"
   ],
-  "mentionedCards": []
+  "mentionedCards": [
+    5432,
+    7344
+  ]
 }
