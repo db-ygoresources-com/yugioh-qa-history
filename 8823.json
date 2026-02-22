@@ -1,0 +1,15 @@
+{
+  "fid": 8823,
+  "databaseDate": "2017-03-24",
+  "title": "「霞の谷のファルコン」の攻撃宣言を行う時に、手札に戻した「ユベル－Das Abscheulich Ritter」の効果を発動する事ができますか？",
+  "question": "「霞の谷のファルコン」の攻撃宣言を行う時に、フィールド上に存在する「ユベル－Das Abscheulich Ritter」を手札に戻した場合、「ユベル－Das Extremer Traurig Drachen」を特殊召喚する効果を発動する事ができますか？",
+  "answer": "「霞の谷のファルコン」が攻撃宣言を行う時に、「ユベル－Das Abscheulich Ritter」を手札に戻した場合、「霞の谷のファルコン」の【攻撃宣言時】のタイミングにて、「ユベル－Das Extremer Traurig Drachen」を特殊召喚する効果を発動する事ができます。",
+  "tags": [
+    "モンスター"
+  ],
+  "mentionedCards": [
+    7410,
+    7411,
+    8109
+  ]
+}
